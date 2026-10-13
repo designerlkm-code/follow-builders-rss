@@ -2,7 +2,7 @@ import tempfile
 import unittest
 from pathlib import Path
 import xml.etree.ElementTree as ET
-from convert import update
+from convert import update, CONTENT_NS, DC_NS
 
 
 class ConversionTests(unittest.TestCase):
@@ -16,6 +16,8 @@ class ConversionTests(unittest.TestCase):
             items = root.findall('./channel/item')
             self.assertEqual(len(items), 1)
             self.assertIn('&lt;script&gt;', items[0].findtext('description'))
+            self.assertEqual(items[0].findtext(f'{{{CONTENT_NS}}}encoded'), items[0].findtext('description'))
+            self.assertEqual(items[0].findtext(f'{{{DC_NS}}}creator'), '作者')
             self.assertIn('01 Oct 2026', items[0].findtext('pubDate'))
             guid = items[0].findtext('guid')
             update('x', {**feed, 'x': []}, path)

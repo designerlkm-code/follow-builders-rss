@@ -14,6 +14,10 @@ import xml.etree.ElementTree as ET
 UPSTREAM = 'https://github.com/zarazhangrui/follow-builders'
 KINDS = {'x': 'X 帖子', 'podcasts': '播客', 'blogs': '博客'}
 LIMIT = 500
+CONTENT_NS = 'http://purl.org/rss/1.0/modules/content/'
+DC_NS = 'http://purl.org/dc/elements/1.1/'
+ET.register_namespace('content', CONTENT_NS)
+ET.register_namespace('dc', DC_NS)
 
 
 def safe_url(value):
@@ -109,6 +113,8 @@ def render(kind, entries, generated_at):
         body = '<p>' + html.escape(entry['author']) + '</p><p>' + html.escape(entry['text']).replace('\n', '<br/>') + '</p>'
         body += '<p><a href="' + html.escape(entry['url'], quote=True) + '">查看原文</a></p>'
         add(item, 'description', body)
+        add(item, f'{{{CONTENT_NS}}}encoded', body)
+        add(item, f'{{{DC_NS}}}creator', entry['author'])
         add(item, 'category', KINDS[kind])
     ET.indent(rss)
     return '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(rss, encoding='unicode') + '\n'
