@@ -1,0 +1,40 @@
+name: Update Follow Builders RSS
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - convert.py
+      - .github/workflows/update.yml
+permissions:
+  contents: write
+concurrency:
+  group: follow-builders-rss
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Convert public feeds
+        id: convert
+        continue-on-error: true
+        run: python convert.py
+      - name: Save successful feeds and status
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add feeds/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public RSS feeds'
+            git push
+          fi
+      - name: Report partial or total fetch failure
+        if: steps.convert.outcome == 'failure'
+        run: |
+          echo 'Some upstream feeds failed. Successful updates were saved; previous feeds were preserved for failed sources.'
+          exit 1
