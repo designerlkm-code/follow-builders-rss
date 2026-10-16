@@ -1,25 +1,23 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 28,
-    "retainedItems": 87,
-    "generatedAt": "2026-10-15T06:42:36.600Z",
+    "newSnapshotItems": 30,
+    "retainedItems": 117,
+    "generatedAt": "2026-10-16T06:42:13.233Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
     "newSnapshotItems": 1,
-    "retainedItems": 3,
-    "generatedAt": "2026-10-15T06:43:51.079Z",
-    "upstreamErrors": [
-      "Podcast: Transcript error for \"Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-    ]
+    "retainedItems": 4,
+    "generatedAt": "2026-10-16T06:42:48.053Z",
+    "upstreamErrors": []
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 1,
-    "generatedAt": "2026-10-15T06:43:51.521Z",
+    "generatedAt": "2026-10-16T06:42:48.371Z",
     "upstreamErrors": []
   }
 }
