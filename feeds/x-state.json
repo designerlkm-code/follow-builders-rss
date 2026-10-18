@@ -1,6 +1,126 @@
 {
-  "generatedAt": "2026-10-17T06:37:54.211Z",
+  "generatedAt": "2026-10-18T06:38:12.951Z",
   "items": [
+    {
+      "guid": "x:07a3fc92251aec6b1a0562f860aafcb4a1d5b7f58e50fe191afc6d921f35def5",
+      "url": "https://x.com/petergyang/status/2111663267995361287",
+      "title": "Peter Yang: Tim is so right. Hope the devs building StarCraft 3 sees this tweet and embrace AI to ship before 20",
+      "author": "Peter Yang",
+      "text": "Tim is so right. Hope the devs building StarCraft 3 sees this tweet and embrace AI to ship before 2030 🙂 https://t.co/OAFYpl4KR2",
+      "publishedAt": "2026-10-18T03:38:50.000Z"
+    },
+    {
+      "guid": "x:0911e31082616534414abfe65f0ea34953b4bdb08836f748bf61acbfc7450223",
+      "url": "https://x.com/rauchg/status/2111643672274165938",
+      "title": "Guillermo Rauch: “What matters is the end product, whether it's a game or an engine”. Well said! https://t.co/PC90IVI",
+      "author": "Guillermo Rauch",
+      "text": "“What matters is the end product, whether it's a game or an engine”. Well said! https://t.co/PC90IVIa2y",
+      "publishedAt": "2026-10-18T02:20:58.000Z"
+    },
+    {
+      "guid": "x:8f188ce911583d06ae2d67a57bd63f367ed52c7be3ddfbbb29e22aaa470fda53",
+      "url": "https://x.com/thenanyu/status/2111597172840083574",
+      "title": "Nan Yu: I had the same conversation reminiscing at a team offsite the other day. “What did we pay attention ",
+      "author": "Nan Yu",
+      "text": "I had the same conversation reminiscing at a team offsite the other day.\n\n“What did we pay attention to before AI?”\n\n“😅 Front end JavaScript frameworks” https://t.co/sKe9X8ylhL",
+      "publishedAt": "2026-10-17T23:16:12.000Z"
+    },
+    {
+      "guid": "x:5bfa06ec7e86a3b288c1fdf9e87dbb3a56dd9d589f42978542fe705ebd93acfd",
+      "url": "https://x.com/thsottiaux/status/2111566005684289735",
+      "title": "Thibault Sottiaux: Done",
+      "author": "Thibault Sottiaux",
+      "text": "Done",
+      "publishedAt": "2026-10-17T21:12:21.000Z"
+    },
+    {
+      "guid": "x:6cfbcbdee5246e0b186441b3c2b742653317abfb463da4b73e635682bd39e4be",
+      "url": "https://x.com/nikunj/status/2111558586421920134",
+      "title": "Nikunj Kothari: introducing the modern venture capital stack (2026): - pre-pre-seed - pre-seed - post-pre-seed - mid",
+      "author": "Nikunj Kothari",
+      "text": "introducing the modern venture capital stack (2026): \n- pre-pre-seed\n- pre-seed\n- post-pre-seed\n- mid-seed\n- pre-post-seed\n- post-seed\n- post-post-seed(?) https://t.co/WSFA45JCLu",
+      "publishedAt": "2026-10-17T20:42:52.000Z"
+    },
+    {
+      "guid": "x:727ec56a4695b0107dd0907ff6537dea916c50450f2449d2dcff4b88fa1a8f7a",
+      "url": "https://x.com/levie/status/2111525362446520466",
+      "title": "Aaron Levie: The biggest misread of anyone predicting the end of software engineering was imagining that the worl",
+      "author": "Aaron Levie",
+      "text": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. \n\nExactly the opposite is happening where essentially most things are actually turning into software. Because agents can use tools, work with computers, write software on the fly, and process data like humans (but far faster), we can now throw “software” at problems that never could reasonably be digitized before.\n\nWhat that leads to is the role of engineering taking on greater importance in the economy, because we can now engineer far more systems and processes than were possible before.\n\nIf you’re a bank trying to do new forms of trading, engineers are often your first bet. If you are in life sciences, you expect more and more research and lab work to be engineering centric. If you’re in manufacturing, you’re trying to automate more of the supply chain, all that is engineering. More and more work is shaped like software problems.\n\nYes we’re not going to be coding manually in the future. But almost everything will be code, which means those that understand it are in a fantastic position.",
+      "publishedAt": "2026-10-17T18:30:51.000Z"
+    },
+    {
+      "guid": "x:d480cdd19aa5d7af04f146a044fe97f25ce5693a050b2249b1e903362a4660f3",
+      "url": "https://x.com/petergyang/status/2111508293818671449",
+      "title": "Peter Yang: If you have way too many apps and agents (45!) connected to your Google account like me, here's a pr",
+      "author": "Peter Yang",
+      "text": "If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them:\n\n\"Help me audit my Google app connections at https://t.co/5eMX9dNhLD\n\n1. Review EVERY app across all connection categories. Ask me which ones I still use rather than guessing.\n\n2. Open each app's details. Distinguish basic Google sign-in from permissions to access Gmail, Drive, Calendar, or other data.\n\n3. Suggest which to keep, disconnect, or ask me about. Explain your reasoning and what might stop working. Flag broad permissions, unfamiliar providers, and duplicate entries.\n\n4. Show me your recommendations before changing anything. Only disconnect apps I explicitly approve, then verify they're removed. Don't delete app accounts or cancel subscriptions.”",
+      "publishedAt": "2026-10-17T17:23:01.000Z"
+    },
+    {
+      "guid": "x:f2c8490bae9bad71322b78f2539c6fb18b4c8037db44755d7a69e0d58e7e9101",
+      "url": "https://x.com/petergyang/status/2111496600522805624",
+      "title": "Peter Yang: Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably s",
+      "author": "Peter Yang",
+      "text": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT.\n\nThe only things missing still are better browser/computer use, remote control for all threads, and live voice. https://t.co/kWULRv1A1t",
+      "publishedAt": "2026-10-17T16:36:33.000Z"
+    },
+    {
+      "guid": "x:e9952815d2716d07d446601e5d8f0393a7b75d96b07a3224570ebd8d809b90f4",
+      "url": "https://x.com/thsottiaux/status/2111495392559067199",
+      "title": "Thibault Sottiaux: My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots reques",
+      "author": "Thibault Sottiaux",
+      "text": "My work dot \"Burger\" coordinated with my personal dot \"Dorito\" over email at my personal dots request to get documents, which then coordinated with with my CPA in order to file some tax stuff. Took 20 minutes. We're still so early.",
+      "publishedAt": "2026-10-17T16:31:45.000Z"
+    },
+    {
+      "guid": "x:72ec12827085d8213aaa6914226ff74d715368cc80f3d6dc2e438a9108283b93",
+      "url": "https://x.com/amasad/status/2111494912562888939",
+      "title": "Amjad Masad: To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many oth",
+      "author": "Amjad Masad",
+      "text": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models.\n\nWhat I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership.\n\nWe believe in giving our users model choice while optimizing the default experience for the best performance at the best price.",
+      "publishedAt": "2026-10-17T16:29:51.000Z"
+    },
+    {
+      "guid": "x:3d0924715d35a7bbd1d236f3043f75b177f993acc97f1bc080c5e54c3daf4a9f",
+      "url": "https://x.com/thsottiaux/status/2111492738025959922",
+      "title": "Thibault Sottiaux: Landing sometime today by EOD PST",
+      "author": "Thibault Sottiaux",
+      "text": "Landing sometime today by EOD PST",
+      "publishedAt": "2026-10-17T16:21:13.000Z"
+    },
+    {
+      "guid": "x:6efa7a547250dfd8ca7f07b59b08cb64849cf9730c9d6318a8547e7232aab77a",
+      "url": "https://x.com/nikunj/status/2111415330622820739",
+      "title": "Nikunj Kothari: nyc ily 👋 https://t.co/renM3InhHD",
+      "author": "Nikunj Kothari",
+      "text": "nyc ily 👋 https://t.co/renM3InhHD",
+      "publishedAt": "2026-10-17T11:13:37.000Z"
+    },
+    {
+      "guid": "x:f7c15cc4acd224b6c200f913f52c617030de1f5a0f1cb80f39384c59aae35241",
+      "url": "https://x.com/swyx/status/2111353401363902573",
+      "title": "Swyx: @dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story. basically no love f",
+      "author": "Swyx",
+      "text": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story.  basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks. https://t.co/XcQM6lzVvU",
+      "publishedAt": "2026-10-17T07:07:32.000Z"
+    },
+    {
+      "guid": "x:69311af0e0ee91e5f155158151eecdd8de56571ebb7f4c6a8bcce6ed248aaadd",
+      "url": "https://x.com/swyx/status/2111351354409300230",
+      "title": "Swyx: @dexhorthy channel affinity my goal is basically to collab with every single one of these folks. you",
+      "author": "Swyx",
+      "text": "@dexhorthy channel affinity\n\nmy goal is basically to collab with every single one of these folks. you guys already love them.\n\npls @Jeffdelaney23 @ThePrimeagen https://t.co/QAhKVubT88",
+      "publishedAt": "2026-10-17T06:59:24.000Z"
+    },
+    {
+      "guid": "x:8066850f2533c9f36323b4c7d45311c5bc3349572434f9d62db2c374bc4971c0",
+      "url": "https://x.com/swyx/status/2111350966419411070",
+      "title": "Swyx: @dexhorthy we serve >1m unique viewers a month pretty much nonstop since May (after AIE EU) but even",
+      "author": "Swyx",
+      "text": "@dexhorthy we serve >1m unique viewers a month pretty much nonstop since May (after AIE EU) but even now 58% of  viewers a month are new to us. 68% of viewers not subscribed lol.\n\nmost viewers 7am-11am PT daily. nobody watches after 5pm. https://t.co/EdPFF9QllO",
+      "publishedAt": "2026-10-17T06:57:52.000Z"
+    },
     {
       "guid": "x:9aa34d14244bc119e213f11e85853828a9fad4e006d95bcb42326d402c079be0",
       "url": "https://x.com/rauchg/status/2111315534755311931",
