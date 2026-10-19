@@ -1,25 +1,23 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 15,
-    "retainedItems": 169,
-    "generatedAt": "2026-10-18T06:38:12.951Z",
+    "newSnapshotItems": 21,
+    "retainedItems": 190,
+    "generatedAt": "2026-10-19T06:54:43.642Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
     "newSnapshotItems": 1,
-    "retainedItems": 6,
-    "generatedAt": "2026-10-18T06:38:49.604Z",
-    "upstreamErrors": [
-      "Podcast: Transcript error for \"Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-    ]
+    "retainedItems": 7,
+    "generatedAt": "2026-10-19T06:54:47.474Z",
+    "upstreamErrors": []
   },
   "blogs": {
     "status": "ok",
-    "newSnapshotItems": 0,
-    "retainedItems": 1,
-    "generatedAt": "2026-10-18T06:38:50.097Z",
+    "newSnapshotItems": 2,
+    "retainedItems": 3,
+    "generatedAt": "2026-10-19T06:54:49.417Z",
     "upstreamErrors": []
   }
 }
