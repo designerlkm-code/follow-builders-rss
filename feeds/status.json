@@ -2,22 +2,24 @@
   "x": {
     "status": "ok",
     "newSnapshotItems": 21,
-    "retainedItems": 190,
-    "generatedAt": "2026-10-19T06:54:43.642Z",
+    "retainedItems": 211,
+    "generatedAt": "2026-10-20T06:41:44.391Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
     "newSnapshotItems": 1,
-    "retainedItems": 7,
-    "generatedAt": "2026-10-19T06:54:47.474Z",
-    "upstreamErrors": []
+    "retainedItems": 8,
+    "generatedAt": "2026-10-20T06:41:49.395Z",
+    "upstreamErrors": [
+      "Podcast: Transcript error for \"Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+    ]
   },
   "blogs": {
     "status": "ok",
-    "newSnapshotItems": 2,
+    "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-19T06:54:49.417Z",
+    "generatedAt": "2026-10-20T06:41:49.759Z",
     "upstreamErrors": []
   }
 }

@@ -3,10 +3,220 @@
   <channel>
     <title>Follow Builders · X 帖子</title>
     <link>https://github.com/zarazhangrui/follow-builders</link>
-    <description>Zara Zhang 的公开 Follow Builders 数据转换。源更新时间：2026-10-19T06:54:43.642Z。内容为原作者表述，未独立核实。</description>
+    <description>Zara Zhang 的公开 Follow Builders 数据转换。源更新时间：2026-10-20T06:41:44.391Z。内容为原作者表述，未独立核实。</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 06:54:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:41:44 +0000</lastBuildDate>
     <ttl>360</ttl>
+    <item>
+      <title>Thibault Sottiaux: Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802</title>
+      <link>https://x.com/thsottiaux/status/2112432076767289678</link>
+      <guid isPermaLink="false">x:9ada83279ee092082681a4a12a68acc75ebb0f6d728929706e0ac0653f2aded6</guid>
+      <pubDate>Tue, 20 Oct 2026 06:33:48 +0000</pubDate>
+      <description>&lt;p&gt;Thibault Sottiaux&lt;/p&gt;&lt;p&gt;Day 15/ Nevermind, we&amp;#x27;re still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/thsottiaux/status/2112432076767289678"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Thibault Sottiaux&lt;/p&gt;&lt;p&gt;Day 15/ Nevermind, we&amp;#x27;re still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/thsottiaux/status/2112432076767289678"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Thibault Sottiaux</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Nikunj Kothari: Tenzing on Apple TV+ is a must watch.. The acting, the direction, the music. I can’t believe this wa</title>
+      <link>https://x.com/nikunj/status/2112422877949751491</link>
+      <guid isPermaLink="false">x:30890ad922f2d36adfea2d34b93329032581e172fbf7ca8b6b5f0f6d0d325929</guid>
+      <pubDate>Tue, 20 Oct 2026 05:57:15 +0000</pubDate>
+      <description>&lt;p&gt;Nikunj Kothari&lt;/p&gt;&lt;p&gt;Tenzing on Apple TV+ is a must watch..&lt;br/&gt;&lt;br/&gt;The acting, the direction, the music. &lt;br/&gt;&lt;br/&gt;I can’t believe this was all shot in real environments and with zero green screens. &lt;br/&gt;&lt;br/&gt;Literal goosebumps.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/nikunj/status/2112422877949751491"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Nikunj Kothari&lt;/p&gt;&lt;p&gt;Tenzing on Apple TV+ is a must watch..&lt;br/&gt;&lt;br/&gt;The acting, the direction, the music. &lt;br/&gt;&lt;br/&gt;I can’t believe this was all shot in real environments and with zero green screens. &lt;br/&gt;&lt;br/&gt;Literal goosebumps.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/nikunj/status/2112422877949751491"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Nikunj Kothari</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Aaron Levie: The big bitter lesson question in the applied AI layer is that as models get better and better, what</title>
+      <link>https://x.com/levie/status/2112404676436222170</link>
+      <guid isPermaLink="false">x:5aad58efb7c7da335d4360c2ee6d3c190f764099b8c9ce1fc6ecd3128f7b06be</guid>
+      <pubDate>Tue, 20 Oct 2026 04:44:56 +0000</pubDate>
+      <description>&lt;p&gt;Aaron Levie&lt;/p&gt;&lt;p&gt;The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise. &lt;br/&gt;&lt;br/&gt;Ironically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability to differentiate on a domain by domain basis goes up instead of down. &lt;br/&gt;&lt;br/&gt;When models were quite limited in what they could do, ironically all you could be literally was a “wrapper” because you were effectively delivering tokens back to the user with a custom prompt or some limited RAG. &lt;br/&gt;&lt;br/&gt;But in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific, model routing that requires domain-specific routing, implementation that requires real change management of the workflow instead of “just type into this chat box”, it’s very very possible that specialization of these systems goes up more. &lt;br/&gt;&lt;br/&gt;Obviously this doesn’t apply to everything - the closer you are to the labs core use-cases the tougher this play gets, but I’d argue we’re going to see autonomous systems for a wide range of job functions that weren’t practical to build out before. We’ll see this in security, life sciences, healthcare, finance, manufacturing, and many other fields. Either way going to be a fun and wild couple of years.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/levie/status/2112404676436222170"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Aaron Levie&lt;/p&gt;&lt;p&gt;The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise. &lt;br/&gt;&lt;br/&gt;Ironically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability to differentiate on a domain by domain basis goes up instead of down. &lt;br/&gt;&lt;br/&gt;When models were quite limited in what they could do, ironically all you could be literally was a “wrapper” because you were effectively delivering tokens back to the user with a custom prompt or some limited RAG. &lt;br/&gt;&lt;br/&gt;But in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific, model routing that requires domain-specific routing, implementation that requires real change management of the workflow instead of “just type into this chat box”, it’s very very possible that specialization of these systems goes up more. &lt;br/&gt;&lt;br/&gt;Obviously this doesn’t apply to everything - the closer you are to the labs core use-cases the tougher this play gets, but I’d argue we’re going to see autonomous systems for a wide range of job functions that weren’t practical to build out before. We’ll see this in security, life sciences, healthcare, finance, manufacturing, and many other fields. Either way going to be a fun and wild couple of years.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/levie/status/2112404676436222170"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Aaron Levie</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Zara Zhang: See this in a theater! One of the most interesting things about this documentary was how much &amp; when</title>
+      <link>https://x.com/zarazhangrui/status/2112398939358138862</link>
+      <guid isPermaLink="false">x:ad62f01e9256078d1875fcd3b8a8e285f4e5779f25b229c120efb5f2fbe90c88</guid>
+      <pubDate>Tue, 20 Oct 2026 04:22:08 +0000</pubDate>
+      <description>&lt;p&gt;Zara Zhang&lt;/p&gt;&lt;p&gt;See this in a theater! One of the most interesting things about this documentary was how much &amp;amp; when people laughed while watching it https://t.co/Q9kAdgyAoW&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/zarazhangrui/status/2112398939358138862"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Zara Zhang&lt;/p&gt;&lt;p&gt;See this in a theater! One of the most interesting things about this documentary was how much &amp;amp; when people laughed while watching it https://t.co/Q9kAdgyAoW&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/zarazhangrui/status/2112398939358138862"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Zara Zhang</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Peter Yang: This doesn't mean it's a good movie btw. I found it completely ridiculous</title>
+      <link>https://x.com/petergyang/status/2112398053185659282</link>
+      <guid isPermaLink="false">x:d82930c3083d63e49148f38d9e5ba652b44b99ec01db7411d00b8062bf479888</guid>
+      <pubDate>Tue, 20 Oct 2026 04:18:36 +0000</pubDate>
+      <description>&lt;p&gt;Peter Yang&lt;/p&gt;&lt;p&gt;This doesn&amp;#x27;t mean it&amp;#x27;s a good movie btw. I found it completely ridiculous&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/petergyang/status/2112398053185659282"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Peter Yang&lt;/p&gt;&lt;p&gt;This doesn&amp;#x27;t mean it&amp;#x27;s a good movie btw. I found it completely ridiculous&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/petergyang/status/2112398053185659282"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Peter Yang</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Nikunj Kothari: Waiting for someone to sell me a peptide factory built in a data center which is also a robotics neo</title>
+      <link>https://x.com/nikunj/status/2112368222809034980</link>
+      <guid isPermaLink="false">x:6514492ef669b22fd511802e34e11a4d529cfe574e6849710d92f876a7dce3ef</guid>
+      <pubDate>Tue, 20 Oct 2026 02:20:04 +0000</pubDate>
+      <description>&lt;p&gt;Nikunj Kothari&lt;/p&gt;&lt;p&gt;Waiting for someone to sell me a  peptide factory built in a data center which is also a robotics neolab that is somehow collecting first party uniquely differentiated data..&lt;br/&gt;&lt;br/&gt;And while we’re at it use the words tape out, memory/CPU shortage too. &lt;br/&gt;&lt;br/&gt;Make it 50/500 on a memo 🤝&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/nikunj/status/2112368222809034980"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Nikunj Kothari&lt;/p&gt;&lt;p&gt;Waiting for someone to sell me a  peptide factory built in a data center which is also a robotics neolab that is somehow collecting first party uniquely differentiated data..&lt;br/&gt;&lt;br/&gt;And while we’re at it use the words tape out, memory/CPU shortage too. &lt;br/&gt;&lt;br/&gt;Make it 50/500 on a memo 🤝&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/nikunj/status/2112368222809034980"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Nikunj Kothari</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Dan Shipper: the ideographic &gt; the nomothetic https://t.co/DT4n8LnA4C</title>
+      <link>https://x.com/danshipper/status/2112308324377203182</link>
+      <guid isPermaLink="false">x:fa643787d5ac008173c119756253a80112b0c63a33d65b544f83de17f4442411</guid>
+      <pubDate>Mon, 19 Oct 2026 22:22:03 +0000</pubDate>
+      <description>&lt;p&gt;Dan Shipper&lt;/p&gt;&lt;p&gt;the ideographic &amp;gt; the nomothetic https://t.co/DT4n8LnA4C&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/danshipper/status/2112308324377203182"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Dan Shipper&lt;/p&gt;&lt;p&gt;the ideographic &amp;gt; the nomothetic https://t.co/DT4n8LnA4C&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/danshipper/status/2112308324377203182"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Dan Shipper</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Peter Yang: This is super cool I love how visual it is. Can't wait to try this @ekuyda! https://t.co/UMkHxW16BB</title>
+      <link>https://x.com/petergyang/status/2112292347505688990</link>
+      <guid isPermaLink="false">x:efd37d2d31e3ba34d427f664694f43a867ad909cebeb9baf53c393b15468fadc</guid>
+      <pubDate>Mon, 19 Oct 2026 21:18:34 +0000</pubDate>
+      <description>&lt;p&gt;Peter Yang&lt;/p&gt;&lt;p&gt;This is super cool I love how visual it is. &lt;br/&gt;&lt;br/&gt;Can&amp;#x27;t wait to try this @ekuyda! https://t.co/UMkHxW16BB&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/petergyang/status/2112292347505688990"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Peter Yang&lt;/p&gt;&lt;p&gt;This is super cool I love how visual it is. &lt;br/&gt;&lt;br/&gt;Can&amp;#x27;t wait to try this @ekuyda! https://t.co/UMkHxW16BB&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/petergyang/status/2112292347505688990"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Peter Yang</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Peter Yang: Very interesting insight into why alot of Netflix original movies and TV shows are slop. I still lov</title>
+      <link>https://x.com/petergyang/status/2112280969382437076</link>
+      <guid isPermaLink="false">x:185688be154cc797d95fa6697a482182cf8918934db730a5d4205fa8669a3d62</guid>
+      <pubDate>Mon, 19 Oct 2026 20:33:22 +0000</pubDate>
+      <description>&lt;p&gt;Peter Yang&lt;/p&gt;&lt;p&gt;Very interesting insight into why alot of Netflix original movies and TV shows are slop. &lt;br/&gt;&lt;br/&gt;I still love a few of them (especially some of the Korean ones). https://t.co/FHES8Crisi&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/petergyang/status/2112280969382437076"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Peter Yang&lt;/p&gt;&lt;p&gt;Very interesting insight into why alot of Netflix original movies and TV shows are slop. &lt;br/&gt;&lt;br/&gt;I still love a few of them (especially some of the Korean ones). https://t.co/FHES8Crisi&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/petergyang/status/2112280969382437076"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Peter Yang</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Garry Tan: Multiplayer agents as group chat seems quite inevitable and Wabi's built it https://t.co/ltccTzgMLo</title>
+      <link>https://x.com/garrytan/status/2112278352514162834</link>
+      <guid isPermaLink="false">x:70df00d8f1e430ebd6cc9e9abe2ebe403a647a7ae997c1ec73d209fac895364a</guid>
+      <pubDate>Mon, 19 Oct 2026 20:22:58 +0000</pubDate>
+      <description>&lt;p&gt;Garry Tan&lt;/p&gt;&lt;p&gt;Multiplayer agents as group chat seems quite inevitable and Wabi&amp;#x27;s built it https://t.co/ltccTzgMLo&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/garrytan/status/2112278352514162834"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Garry Tan&lt;/p&gt;&lt;p&gt;Multiplayer agents as group chat seems quite inevitable and Wabi&amp;#x27;s built it https://t.co/ltccTzgMLo&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/garrytan/status/2112278352514162834"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Garry Tan</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Aditya Agarwal: https://t.co/aEAsDgsa3u</title>
+      <link>https://x.com/adityaag/status/2112276233363030215</link>
+      <guid isPermaLink="false">x:0cfa49d4f5e5a4a2ac4dc61bb93eb276756ea52b96e56e2b9d3b3318e9e4fc7a</guid>
+      <pubDate>Mon, 19 Oct 2026 20:14:32 +0000</pubDate>
+      <description>&lt;p&gt;Aditya Agarwal&lt;/p&gt;&lt;p&gt;https://t.co/aEAsDgsa3u&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/adityaag/status/2112276233363030215"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Aditya Agarwal&lt;/p&gt;&lt;p&gt;https://t.co/aEAsDgsa3u&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/adityaag/status/2112276233363030215"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Aditya Agarwal</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Aditya Agarwal: Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund. Last time @traestephens was at </title>
+      <link>https://x.com/adityaag/status/2112276231731466420</link>
+      <guid isPermaLink="false">x:47e82ab6c1cd2ee1fd1a0843d13f8c1bd6a5e2545be87a289f93936383811a4b</guid>
+      <pubDate>Mon, 19 Oct 2026 20:14:32 +0000</pubDate>
+      <description>&lt;p&gt;Aditya Agarwal&lt;/p&gt;&lt;p&gt;Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund.&lt;br/&gt;&lt;br/&gt;Last time @traestephens was at @spc was back in 2022.&lt;br/&gt;&lt;br/&gt;The world looks a little different now.&lt;br/&gt;&lt;br/&gt;Wednesday. RSVP below. https://t.co/6uZu9c7KKT&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/adityaag/status/2112276231731466420"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Aditya Agarwal&lt;/p&gt;&lt;p&gt;Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund.&lt;br/&gt;&lt;br/&gt;Last time @traestephens was at @spc was back in 2022.&lt;br/&gt;&lt;br/&gt;The world looks a little different now.&lt;br/&gt;&lt;br/&gt;Wednesday. RSVP below. https://t.co/6uZu9c7KKT&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/adityaag/status/2112276231731466420"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Aditya Agarwal</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Dan Shipper: a story in 3 parts https://t.co/dabv01DAY3</title>
+      <link>https://x.com/danshipper/status/2112272224782856514</link>
+      <guid isPermaLink="false">x:31884095e905130e3170d3c212065a28a08acf6e67217367007a2874db2a77d9</guid>
+      <pubDate>Mon, 19 Oct 2026 19:58:37 +0000</pubDate>
+      <description>&lt;p&gt;Dan Shipper&lt;/p&gt;&lt;p&gt;a story in 3 parts https://t.co/dabv01DAY3&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/danshipper/status/2112272224782856514"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Dan Shipper&lt;/p&gt;&lt;p&gt;a story in 3 parts https://t.co/dabv01DAY3&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/danshipper/status/2112272224782856514"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Dan Shipper</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Thibault Sottiaux: Day 15/ We're cooked https://t.co/ciJpOJlmOn</title>
+      <link>https://x.com/thsottiaux/status/2112268918681485431</link>
+      <guid isPermaLink="false">x:dacecc296276536d2365bfb6992efebcc7dbff5574aa0064454510cc7e1b7d30</guid>
+      <pubDate>Mon, 19 Oct 2026 19:45:28 +0000</pubDate>
+      <description>&lt;p&gt;Thibault Sottiaux&lt;/p&gt;&lt;p&gt;Day 15/ We&amp;#x27;re cooked https://t.co/ciJpOJlmOn&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/thsottiaux/status/2112268918681485431"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Thibault Sottiaux&lt;/p&gt;&lt;p&gt;Day 15/ We&amp;#x27;re cooked https://t.co/ciJpOJlmOn&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/thsottiaux/status/2112268918681485431"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Thibault Sottiaux</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Guillermo Rauch: 1,000 tokens per second btw https://t.co/BdATqYu71F</title>
+      <link>https://x.com/rauchg/status/2112256718281551955</link>
+      <guid isPermaLink="false">x:a963003170eefa7fc984a6a63ddbcea652c9c53b0bd6c1e3c4aa49536bb4abf8</guid>
+      <pubDate>Mon, 19 Oct 2026 18:57:00 +0000</pubDate>
+      <description>&lt;p&gt;Guillermo Rauch&lt;/p&gt;&lt;p&gt;1,000 tokens per second btw https://t.co/BdATqYu71F&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/rauchg/status/2112256718281551955"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Guillermo Rauch&lt;/p&gt;&lt;p&gt;1,000 tokens per second btw https://t.co/BdATqYu71F&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/rauchg/status/2112256718281551955"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Guillermo Rauch</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Guillermo Rauch: We open sourced a *really fast* HTML artifact builder. It's powered by libfx, making the agent durab</title>
+      <link>https://x.com/rauchg/status/2112247046082363821</link>
+      <guid isPermaLink="false">x:110f15e67f16e548c9111c4fed01884ae96f85651b04b54ea1debda34cf65f0b</guid>
+      <pubDate>Mon, 19 Oct 2026 18:18:34 +0000</pubDate>
+      <description>&lt;p&gt;Guillermo Rauch&lt;/p&gt;&lt;p&gt;We open sourced a *really fast* HTML artifact builder. It&amp;#x27;s powered by libfx, making the agent durable.&lt;br/&gt;&lt;br/&gt;Building the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain.&lt;br/&gt;&lt;br/&gt;Now it&amp;#x27;s easy, free, and OSS: https://t.co/aUP1vKeIsP.&lt;br/&gt;&lt;br/&gt;PS: I built this floating container in a few minutes… it&amp;#x27;s delightful, and it&amp;#x27;s just HTML!&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/rauchg/status/2112247046082363821"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Guillermo Rauch&lt;/p&gt;&lt;p&gt;We open sourced a *really fast* HTML artifact builder. It&amp;#x27;s powered by libfx, making the agent durable.&lt;br/&gt;&lt;br/&gt;Building the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain.&lt;br/&gt;&lt;br/&gt;Now it&amp;#x27;s easy, free, and OSS: https://t.co/aUP1vKeIsP.&lt;br/&gt;&lt;br/&gt;PS: I built this floating container in a few minutes… it&amp;#x27;s delightful, and it&amp;#x27;s just HTML!&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/rauchg/status/2112247046082363821"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Guillermo Rauch</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Dan Shipper: so proud of Quinten + Ajay and team! they've been pushing the boundaries of creativity and storytell</title>
+      <link>https://x.com/danshipper/status/2112230653924192274</link>
+      <guid isPermaLink="false">x:b76235c8045a64a7c55676fd6aa325e6702622f89861bbe43df257b35b7a548e</guid>
+      <pubDate>Mon, 19 Oct 2026 17:13:25 +0000</pubDate>
+      <description>&lt;p&gt;Dan Shipper&lt;/p&gt;&lt;p&gt;so proud of Quinten + Ajay and team! &lt;br/&gt;&lt;br/&gt;they&amp;#x27;ve been pushing the boundaries of creativity and storytelling with AI for years now—and one of the breakout examples of it working in consumer&lt;br/&gt;&lt;br/&gt;psyched to be a tiny investor :) https://t.co/8deaaWyuJ7&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/danshipper/status/2112230653924192274"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Dan Shipper&lt;/p&gt;&lt;p&gt;so proud of Quinten + Ajay and team! &lt;br/&gt;&lt;br/&gt;they&amp;#x27;ve been pushing the boundaries of creativity and storytelling with AI for years now—and one of the breakout examples of it working in consumer&lt;br/&gt;&lt;br/&gt;psyched to be a tiny investor :) https://t.co/8deaaWyuJ7&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/danshipper/status/2112230653924192274"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Dan Shipper</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Nikunj Kothari: A few weeks ago, I was ranting about multiplayer AI experiences and that's when @ekuyda shared an ea</title>
+      <link>https://x.com/nikunj/status/2112219327881761008</link>
+      <guid isPermaLink="false">x:fb51ce31eb8b2f809058d9b6e0e11a9ef99b7d03de232ce274e7d0d0da4d5eb4</guid>
+      <pubDate>Mon, 19 Oct 2026 16:28:25 +0000</pubDate>
+      <description>&lt;p&gt;Nikunj Kothari&lt;/p&gt;&lt;p&gt;A few weeks ago, I was ranting about multiplayer AI experiences and that&amp;#x27;s when @ekuyda shared an early preview of Wabi 2.0..&lt;br/&gt;&lt;br/&gt;Truth be told, I was one of the early users of Wabi 1.0 and while the design was gorgeous, it frankly never &amp;quot;stuck&amp;quot; with me.&lt;br/&gt;&lt;br/&gt;But, in moments of downloading this edition, I was immediately hooked. &lt;br/&gt;&lt;br/&gt;It just gets the &amp;quot;paradigm&amp;quot; right imo. There are two types of personal agents today: 1) Singleplayer iMessage or Muse types - while useful it&amp;#x27;s hard to compartmentalize them when many things are going on 2) Build your own multiple chat Hermes agents - while that&amp;#x27;s useful and can share context, they live forever&lt;br/&gt;&lt;br/&gt;Wabi has this great paradigm of orchestrator (which is the main agent) and topic specific episodic chats that are for a single purpose. You can share these individual chats with folks (for example the school one with my wife). And these are generated proactively AND don&amp;#x27;t need to stay forever (which is important).&lt;br/&gt;&lt;br/&gt;For example, for my recent NY trip, it was generated based on a flight it saw, provided help where needed, and then after the trip was done, it was archived. Same with my 2025 taxes. &lt;br/&gt;&lt;br/&gt;My only critique so far it&amp;#x27;s TOO proactive, the apps can be better and they need to dial both of those in, but this is a wonderful product that everyone should try!&lt;br/&gt;&lt;br/&gt;(I know it&amp;#x27;s shocking to see this in today&amp;#x27;s day and age, but this is neither paid, nor an investor, just a fan)&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/nikunj/status/2112219327881761008"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Nikunj Kothari&lt;/p&gt;&lt;p&gt;A few weeks ago, I was ranting about multiplayer AI experiences and that&amp;#x27;s when @ekuyda shared an early preview of Wabi 2.0..&lt;br/&gt;&lt;br/&gt;Truth be told, I was one of the early users of Wabi 1.0 and while the design was gorgeous, it frankly never &amp;quot;stuck&amp;quot; with me.&lt;br/&gt;&lt;br/&gt;But, in moments of downloading this edition, I was immediately hooked. &lt;br/&gt;&lt;br/&gt;It just gets the &amp;quot;paradigm&amp;quot; right imo. There are two types of personal agents today: 1) Singleplayer iMessage or Muse types - while useful it&amp;#x27;s hard to compartmentalize them when many things are going on 2) Build your own multiple chat Hermes agents - while that&amp;#x27;s useful and can share context, they live forever&lt;br/&gt;&lt;br/&gt;Wabi has this great paradigm of orchestrator (which is the main agent) and topic specific episodic chats that are for a single purpose. You can share these individual chats with folks (for example the school one with my wife). And these are generated proactively AND don&amp;#x27;t need to stay forever (which is important).&lt;br/&gt;&lt;br/&gt;For example, for my recent NY trip, it was generated based on a flight it saw, provided help where needed, and then after the trip was done, it was archived. Same with my 2025 taxes. &lt;br/&gt;&lt;br/&gt;My only critique so far it&amp;#x27;s TOO proactive, the apps can be better and they need to dial both of those in, but this is a wonderful product that everyone should try!&lt;br/&gt;&lt;br/&gt;(I know it&amp;#x27;s shocking to see this in today&amp;#x27;s day and age, but this is neither paid, nor an investor, just a fan)&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/nikunj/status/2112219327881761008"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Nikunj Kothari</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Thariq: I think most people multi-tasking with agents could benefit from slowing down most of the stuff you'</title>
+      <link>https://x.com/trq212/status/2112219173288120531</link>
+      <guid isPermaLink="false">x:a35318ab74865bc36026b83b39954d4eabf34c7e2f78b3780e14366a16799e7a</guid>
+      <pubDate>Mon, 19 Oct 2026 16:27:48 +0000</pubDate>
+      <description>&lt;p&gt;Thariq&lt;/p&gt;&lt;p&gt;I think most people multi-tasking with agents could benefit from slowing down&lt;br/&gt;&lt;br/&gt;most of the stuff you&amp;#x27;re doing wont really matter- what&amp;#x27;s your P0? what would it look like if you gave it your full attention?&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/trq212/status/2112219173288120531"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Thariq&lt;/p&gt;&lt;p&gt;I think most people multi-tasking with agents could benefit from slowing down&lt;br/&gt;&lt;br/&gt;most of the stuff you&amp;#x27;re doing wont really matter- what&amp;#x27;s your P0? what would it look like if you gave it your full attention?&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/trq212/status/2112219173288120531"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Thariq</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Guillermo Rauch: More free AI https://t.co/9Jd42XA7rw</title>
+      <link>https://x.com/rauchg/status/2112194000639967590</link>
+      <guid isPermaLink="false">x:79608b4b45a5eb7be9d937de1f6967edf139ff0be8f17b756736f3ec9eb23a69</guid>
+      <pubDate>Mon, 19 Oct 2026 14:47:47 +0000</pubDate>
+      <description>&lt;p&gt;Guillermo Rauch&lt;/p&gt;&lt;p&gt;More free AI https://t.co/9Jd42XA7rw&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/rauchg/status/2112194000639967590"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Guillermo Rauch&lt;/p&gt;&lt;p&gt;More free AI https://t.co/9Jd42XA7rw&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/rauchg/status/2112194000639967590"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Guillermo Rauch</dc:creator>
+      <category>X 帖子</category>
+    </item>
+    <item>
+      <title>Swyx: "O Infallible one, why do the people not heed the sign we tap?" "My dear Parth, each believes he is </title>
+      <link>https://x.com/swyx/status/2112182228977348963</link>
+      <guid isPermaLink="false">x:9a635a37115cf4a0456ec307cfc5c4adbee63404415653b57583606d5b61dd50</guid>
+      <pubDate>Mon, 19 Oct 2026 14:01:00 +0000</pubDate>
+      <description>&lt;p&gt;Swyx&lt;/p&gt;&lt;p&gt;&amp;quot;O Infallible one, why do the people not heed the sign we tap?&amp;quot;&lt;br/&gt;&lt;br/&gt;&amp;quot;My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.&amp;quot;&lt;br/&gt;&lt;br/&gt;&amp;quot;But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people&amp;#x27;s wants must be made.&amp;quot;&lt;br/&gt;&lt;br/&gt;*a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/swyx/status/2112182228977348963"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Swyx&lt;/p&gt;&lt;p&gt;&amp;quot;O Infallible one, why do the people not heed the sign we tap?&amp;quot;&lt;br/&gt;&lt;br/&gt;&amp;quot;My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.&amp;quot;&lt;br/&gt;&lt;br/&gt;&amp;quot;But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people&amp;#x27;s wants must be made.&amp;quot;&lt;br/&gt;&lt;br/&gt;*a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/swyx/status/2112182228977348963"&gt;查看原文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <dc:creator>Swyx</dc:creator>
+      <category>X 帖子</category>
+    </item>
     <item>
       <title>Swyx: Data engineers &gt; AI engineers there's a big difference between a "RAG guy" and a "Data Intensive App</title>
       <link>https://x.com/swyx/status/2112073533794971941</link>

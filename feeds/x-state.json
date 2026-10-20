@@ -1,6 +1,174 @@
 {
-  "generatedAt": "2026-10-19T06:54:43.642Z",
+  "generatedAt": "2026-10-20T06:41:44.391Z",
   "items": [
+    {
+      "guid": "x:9ada83279ee092082681a4a12a68acc75ebb0f6d728929706e0ac0653f2aded6",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "title": "Thibault Sottiaux: Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+      "author": "Thibault Sottiaux",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy. https://t.co/RZ9WhtI802",
+      "publishedAt": "2026-10-20T06:33:48.000Z"
+    },
+    {
+      "guid": "x:30890ad922f2d36adfea2d34b93329032581e172fbf7ca8b6b5f0f6d0d325929",
+      "url": "https://x.com/nikunj/status/2112422877949751491",
+      "title": "Nikunj Kothari: Tenzing on Apple TV+ is a must watch.. The acting, the direction, the music. I can’t believe this wa",
+      "author": "Nikunj Kothari",
+      "text": "Tenzing on Apple TV+ is a must watch..\n\nThe acting, the direction, the music. \n\nI can’t believe this was all shot in real environments and with zero green screens. \n\nLiteral goosebumps.",
+      "publishedAt": "2026-10-20T05:57:15.000Z"
+    },
+    {
+      "guid": "x:5aad58efb7c7da335d4360c2ee6d3c190f764099b8c9ce1fc6ecd3128f7b06be",
+      "url": "https://x.com/levie/status/2112404676436222170",
+      "title": "Aaron Levie: The big bitter lesson question in the applied AI layer is that as models get better and better, what",
+      "author": "Aaron Levie",
+      "text": "The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise. \n\nIronically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability to differentiate on a domain by domain basis goes up instead of down. \n\nWhen models were quite limited in what they could do, ironically all you could be literally was a “wrapper” because you were effectively delivering tokens back to the user with a custom prompt or some limited RAG. \n\nBut in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific, model routing that requires domain-specific routing, implementation that requires real change management of the workflow instead of “just type into this chat box”, it’s very very possible that specialization of these systems goes up more. \n\nObviously this doesn’t apply to everything - the closer you are to the labs core use-cases the tougher this play gets, but I’d argue we’re going to see autonomous systems for a wide range of job functions that weren’t practical to build out before. We’ll see this in security, life sciences, healthcare, finance, manufacturing, and many other fields. Either way going to be a fun and wild couple of years.",
+      "publishedAt": "2026-10-20T04:44:56.000Z"
+    },
+    {
+      "guid": "x:ad62f01e9256078d1875fcd3b8a8e285f4e5779f25b229c120efb5f2fbe90c88",
+      "url": "https://x.com/zarazhangrui/status/2112398939358138862",
+      "title": "Zara Zhang: See this in a theater! One of the most interesting things about this documentary was how much & when",
+      "author": "Zara Zhang",
+      "text": "See this in a theater! One of the most interesting things about this documentary was how much & when people laughed while watching it https://t.co/Q9kAdgyAoW",
+      "publishedAt": "2026-10-20T04:22:08.000Z"
+    },
+    {
+      "guid": "x:d82930c3083d63e49148f38d9e5ba652b44b99ec01db7411d00b8062bf479888",
+      "url": "https://x.com/petergyang/status/2112398053185659282",
+      "title": "Peter Yang: This doesn't mean it's a good movie btw. I found it completely ridiculous",
+      "author": "Peter Yang",
+      "text": "This doesn't mean it's a good movie btw. I found it completely ridiculous",
+      "publishedAt": "2026-10-20T04:18:36.000Z"
+    },
+    {
+      "guid": "x:6514492ef669b22fd511802e34e11a4d529cfe574e6849710d92f876a7dce3ef",
+      "url": "https://x.com/nikunj/status/2112368222809034980",
+      "title": "Nikunj Kothari: Waiting for someone to sell me a peptide factory built in a data center which is also a robotics neo",
+      "author": "Nikunj Kothari",
+      "text": "Waiting for someone to sell me a  peptide factory built in a data center which is also a robotics neolab that is somehow collecting first party uniquely differentiated data..\n\nAnd while we’re at it use the words tape out, memory/CPU shortage too. \n\nMake it 50/500 on a memo 🤝",
+      "publishedAt": "2026-10-20T02:20:04.000Z"
+    },
+    {
+      "guid": "x:fa643787d5ac008173c119756253a80112b0c63a33d65b544f83de17f4442411",
+      "url": "https://x.com/danshipper/status/2112308324377203182",
+      "title": "Dan Shipper: the ideographic > the nomothetic https://t.co/DT4n8LnA4C",
+      "author": "Dan Shipper",
+      "text": "the ideographic > the nomothetic https://t.co/DT4n8LnA4C",
+      "publishedAt": "2026-10-19T22:22:03.000Z"
+    },
+    {
+      "guid": "x:efd37d2d31e3ba34d427f664694f43a867ad909cebeb9baf53c393b15468fadc",
+      "url": "https://x.com/petergyang/status/2112292347505688990",
+      "title": "Peter Yang: This is super cool I love how visual it is. Can't wait to try this @ekuyda! https://t.co/UMkHxW16BB",
+      "author": "Peter Yang",
+      "text": "This is super cool I love how visual it is. \n\nCan't wait to try this @ekuyda! https://t.co/UMkHxW16BB",
+      "publishedAt": "2026-10-19T21:18:34.000Z"
+    },
+    {
+      "guid": "x:185688be154cc797d95fa6697a482182cf8918934db730a5d4205fa8669a3d62",
+      "url": "https://x.com/petergyang/status/2112280969382437076",
+      "title": "Peter Yang: Very interesting insight into why alot of Netflix original movies and TV shows are slop. I still lov",
+      "author": "Peter Yang",
+      "text": "Very interesting insight into why alot of Netflix original movies and TV shows are slop. \n\nI still love a few of them (especially some of the Korean ones). https://t.co/FHES8Crisi",
+      "publishedAt": "2026-10-19T20:33:22.000Z"
+    },
+    {
+      "guid": "x:70df00d8f1e430ebd6cc9e9abe2ebe403a647a7ae997c1ec73d209fac895364a",
+      "url": "https://x.com/garrytan/status/2112278352514162834",
+      "title": "Garry Tan: Multiplayer agents as group chat seems quite inevitable and Wabi's built it https://t.co/ltccTzgMLo",
+      "author": "Garry Tan",
+      "text": "Multiplayer agents as group chat seems quite inevitable and Wabi's built it https://t.co/ltccTzgMLo",
+      "publishedAt": "2026-10-19T20:22:58.000Z"
+    },
+    {
+      "guid": "x:0cfa49d4f5e5a4a2ac4dc61bb93eb276756ea52b96e56e2b9d3b3318e9e4fc7a",
+      "url": "https://x.com/adityaag/status/2112276233363030215",
+      "title": "Aditya Agarwal: https://t.co/aEAsDgsa3u",
+      "author": "Aditya Agarwal",
+      "text": "https://t.co/aEAsDgsa3u",
+      "publishedAt": "2026-10-19T20:14:32.000Z"
+    },
+    {
+      "guid": "x:47e82ab6c1cd2ee1fd1a0843d13f8c1bd6a5e2545be87a289f93936383811a4b",
+      "url": "https://x.com/adityaag/status/2112276231731466420",
+      "title": "Aditya Agarwal: Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund. Last time @traestephens was at ",
+      "author": "Aditya Agarwal",
+      "text": "Early @PalantirTech. Cofounder of @anduriltech. GP at @foundersfund.\n\nLast time @traestephens was at @spc was back in 2022.\n\nThe world looks a little different now.\n\nWednesday. RSVP below. https://t.co/6uZu9c7KKT",
+      "publishedAt": "2026-10-19T20:14:32.000Z"
+    },
+    {
+      "guid": "x:31884095e905130e3170d3c212065a28a08acf6e67217367007a2874db2a77d9",
+      "url": "https://x.com/danshipper/status/2112272224782856514",
+      "title": "Dan Shipper: a story in 3 parts https://t.co/dabv01DAY3",
+      "author": "Dan Shipper",
+      "text": "a story in 3 parts https://t.co/dabv01DAY3",
+      "publishedAt": "2026-10-19T19:58:37.000Z"
+    },
+    {
+      "guid": "x:dacecc296276536d2365bfb6992efebcc7dbff5574aa0064454510cc7e1b7d30",
+      "url": "https://x.com/thsottiaux/status/2112268918681485431",
+      "title": "Thibault Sottiaux: Day 15/ We're cooked https://t.co/ciJpOJlmOn",
+      "author": "Thibault Sottiaux",
+      "text": "Day 15/ We're cooked https://t.co/ciJpOJlmOn",
+      "publishedAt": "2026-10-19T19:45:28.000Z"
+    },
+    {
+      "guid": "x:a963003170eefa7fc984a6a63ddbcea652c9c53b0bd6c1e3c4aa49536bb4abf8",
+      "url": "https://x.com/rauchg/status/2112256718281551955",
+      "title": "Guillermo Rauch: 1,000 tokens per second btw https://t.co/BdATqYu71F",
+      "author": "Guillermo Rauch",
+      "text": "1,000 tokens per second btw https://t.co/BdATqYu71F",
+      "publishedAt": "2026-10-19T18:57:00.000Z"
+    },
+    {
+      "guid": "x:110f15e67f16e548c9111c4fed01884ae96f85651b04b54ea1debda34cf65f0b",
+      "url": "https://x.com/rauchg/status/2112247046082363821",
+      "title": "Guillermo Rauch: We open sourced a *really fast* HTML artifact builder. It's powered by libfx, making the agent durab",
+      "author": "Guillermo Rauch",
+      "text": "We open sourced a *really fast* HTML artifact builder. It's powered by libfx, making the agent durable.\n\nBuilding the low-level plumbing for v0 to survive server crashes, flaky LLMs, function limits was a huge pain.\n\nNow it's easy, free, and OSS: https://t.co/aUP1vKeIsP.\n\nPS: I built this floating container in a few minutes… it's delightful, and it's just HTML!",
+      "publishedAt": "2026-10-19T18:18:34.000Z"
+    },
+    {
+      "guid": "x:b76235c8045a64a7c55676fd6aa325e6702622f89861bbe43df257b35b7a548e",
+      "url": "https://x.com/danshipper/status/2112230653924192274",
+      "title": "Dan Shipper: so proud of Quinten + Ajay and team! they've been pushing the boundaries of creativity and storytell",
+      "author": "Dan Shipper",
+      "text": "so proud of Quinten + Ajay and team! \n\nthey've been pushing the boundaries of creativity and storytelling with AI for years now—and one of the breakout examples of it working in consumer\n\npsyched to be a tiny investor :) https://t.co/8deaaWyuJ7",
+      "publishedAt": "2026-10-19T17:13:25.000Z"
+    },
+    {
+      "guid": "x:fb51ce31eb8b2f809058d9b6e0e11a9ef99b7d03de232ce274e7d0d0da4d5eb4",
+      "url": "https://x.com/nikunj/status/2112219327881761008",
+      "title": "Nikunj Kothari: A few weeks ago, I was ranting about multiplayer AI experiences and that's when @ekuyda shared an ea",
+      "author": "Nikunj Kothari",
+      "text": "A few weeks ago, I was ranting about multiplayer AI experiences and that's when @ekuyda shared an early preview of Wabi 2.0..\n\nTruth be told, I was one of the early users of Wabi 1.0 and while the design was gorgeous, it frankly never \"stuck\" with me.\n\nBut, in moments of downloading this edition, I was immediately hooked. \n\nIt just gets the \"paradigm\" right imo. There are two types of personal agents today: 1) Singleplayer iMessage or Muse types - while useful it's hard to compartmentalize them when many things are going on 2) Build your own multiple chat Hermes agents - while that's useful and can share context, they live forever\n\nWabi has this great paradigm of orchestrator (which is the main agent) and topic specific episodic chats that are for a single purpose. You can share these individual chats with folks (for example the school one with my wife). And these are generated proactively AND don't need to stay forever (which is important).\n\nFor example, for my recent NY trip, it was generated based on a flight it saw, provided help where needed, and then after the trip was done, it was archived. Same with my 2025 taxes. \n\nMy only critique so far it's TOO proactive, the apps can be better and they need to dial both of those in, but this is a wonderful product that everyone should try!\n\n(I know it's shocking to see this in today's day and age, but this is neither paid, nor an investor, just a fan)",
+      "publishedAt": "2026-10-19T16:28:25.000Z"
+    },
+    {
+      "guid": "x:a35318ab74865bc36026b83b39954d4eabf34c7e2f78b3780e14366a16799e7a",
+      "url": "https://x.com/trq212/status/2112219173288120531",
+      "title": "Thariq: I think most people multi-tasking with agents could benefit from slowing down most of the stuff you'",
+      "author": "Thariq",
+      "text": "I think most people multi-tasking with agents could benefit from slowing down\n\nmost of the stuff you're doing wont really matter- what's your P0? what would it look like if you gave it your full attention?",
+      "publishedAt": "2026-10-19T16:27:48.000Z"
+    },
+    {
+      "guid": "x:79608b4b45a5eb7be9d937de1f6967edf139ff0be8f17b756736f3ec9eb23a69",
+      "url": "https://x.com/rauchg/status/2112194000639967590",
+      "title": "Guillermo Rauch: More free AI https://t.co/9Jd42XA7rw",
+      "author": "Guillermo Rauch",
+      "text": "More free AI https://t.co/9Jd42XA7rw",
+      "publishedAt": "2026-10-19T14:47:47.000Z"
+    },
+    {
+      "guid": "x:9a635a37115cf4a0456ec307cfc5c4adbee63404415653b57583606d5b61dd50",
+      "url": "https://x.com/swyx/status/2112182228977348963",
+      "title": "Swyx: \"O Infallible one, why do the people not heed the sign we tap?\" \"My dear Parth, each believes he is ",
+      "author": "Swyx",
+      "text": "\"O Infallible one, why do the people not heed the sign we tap?\"\n\n\"My dear Parth, each believes he is the first to wish for an end to chat. On X we are cursed with the eternal September of the Thoughtless Mind.\"\n\n\"But O Govinda, they yearn for what lies beyond it, and cast their votes by the thousands. Surely the people's wants must be made.\"\n\n*a wan smile* “O son of Kunti, observe what they applaud, and what they return to. They desire the end of chat as they desire the end of desire. They desire to leave X as they return in ever greater numbers. They will announce it many times. You shall learn, as they do not, that the chief desire of the people of X is not the truth, but the new.”",
+      "publishedAt": "2026-10-19T14:01:00.000Z"
+    },
     {
       "guid": "x:9900bae23440ef6043773cd5a4857e33ed2835570da75f1791e6a9d88bc20548",
       "url": "https://x.com/swyx/status/2112073533794971941",
