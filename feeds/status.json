@@ -1,25 +1,26 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 21,
-    "retainedItems": 211,
-    "generatedAt": "2026-10-20T06:41:44.391Z",
+    "newSnapshotItems": 31,
+    "retainedItems": 242,
+    "generatedAt": "2026-10-21T06:42:56.495Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
-    "newSnapshotItems": 1,
+    "newSnapshotItems": 0,
     "retainedItems": 8,
-    "generatedAt": "2026-10-20T06:41:49.395Z",
+    "generatedAt": "2026-10-21T06:43:00.609Z",
     "upstreamErrors": [
-      "Podcast: Transcript error for \"Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
+      "Podcast: Transcript error for \"The Programmable Data Center — Evan Conrad, SF Compute\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
+      "Podcast: Transcript error for \"Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
     ]
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-20T06:41:49.759Z",
+    "generatedAt": "2026-10-21T06:43:01.237Z",
     "upstreamErrors": []
   }
 }
