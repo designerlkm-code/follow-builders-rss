@@ -1,26 +1,23 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 31,
-    "retainedItems": 242,
-    "generatedAt": "2026-10-21T06:42:56.495Z",
+    "newSnapshotItems": 36,
+    "retainedItems": 278,
+    "generatedAt": "2026-10-22T06:42:53.340Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
-    "newSnapshotItems": 0,
-    "retainedItems": 8,
-    "generatedAt": "2026-10-21T06:43:00.609Z",
-    "upstreamErrors": [
-      "Podcast: Transcript error for \"The Programmable Data Center — Evan Conrad, SF Compute\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
-      "Podcast: Transcript error for \"Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
-    ]
+    "newSnapshotItems": 1,
+    "retainedItems": 9,
+    "generatedAt": "2026-10-22T06:43:00.934Z",
+    "upstreamErrors": []
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-21T06:43:01.237Z",
+    "generatedAt": "2026-10-22T06:43:01.442Z",
     "upstreamErrors": []
   }
 }
