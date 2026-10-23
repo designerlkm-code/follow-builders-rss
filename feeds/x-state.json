@@ -1,6 +1,310 @@
 {
-  "generatedAt": "2026-10-22T06:42:53.340Z",
+  "generatedAt": "2026-10-23T06:42:39.698Z",
   "items": [
+    {
+      "guid": "x:fc11e2c4414fcf08ff837e497f6ebc12d4146d9224a55d25e74ca541c3f8a212",
+      "url": "https://x.com/zarazhangrui/status/2113510486834921598",
+      "title": "Zara Zhang: This has always been the case for designers and developers, but now it's extending to everybody else",
+      "author": "Zara Zhang",
+      "text": "This has always been the case for designers and developers, but now it's extending to everybody else",
+      "publishedAt": "2026-10-23T05:59:01.000Z"
+    },
+    {
+      "guid": "x:1d25e82a18e7f982db60aaedf7fc067e49c99ec2cffccdd6193a4742ff16709b",
+      "url": "https://x.com/swyx/status/2113509413537693703",
+      "title": "Swyx: extremely impt for pipelining... estimating ETA for its own pipeline fixes while running the pipelin",
+      "author": "Swyx",
+      "text": "extremely impt for pipelining... estimating ETA for its own pipeline fixes while running the pipeline still https://t.co/EGepLMXguH",
+      "publishedAt": "2026-10-23T05:54:45.000Z"
+    },
+    {
+      "guid": "x:0774584be67d5bd3c6a7fc30bcb3fd155f06d57fbe5fdc1099088df2d969dfce",
+      "url": "https://x.com/levie/status/2113499900399034689",
+      "title": "Aaron Levie: Any form of security through obscurity is fully over. This barely worked as a method with humans, bu",
+      "author": "Aaron Levie",
+      "text": "Any form of security through obscurity is fully over. This barely worked as a method with humans, but just simply is over in a world of autonomous systems that will look through every crevice and try every permutation of attack possible.\n\nAs a result, years and years of legacy enterprise infrastructure will need to be upgraded, security practices modernized, data pipelines cleaned up, access controls better managed, and much more. Agents will help on the defensive side because they can both accelerate this work and equally simulate the risk vectors.\n\nBut there’s a long road ahead to prepare for this future. This is also partially why diffusion timelines will take longer than some realize.",
+      "publishedAt": "2026-10-23T05:16:57.000Z"
+    },
+    {
+      "guid": "x:54caec3c44abfa552c069973c3f9ab9e00e026021dbe9f2a9a243887ff55fb4e",
+      "url": "https://x.com/thsottiaux/status/2113492502355562875",
+      "title": "Thibault Sottiaux: Landing tomorrow before 10am PST together with a small ship.",
+      "author": "Thibault Sottiaux",
+      "text": "Landing tomorrow before 10am PST together with a small ship.",
+      "publishedAt": "2026-10-23T04:47:34.000Z"
+    },
+    {
+      "guid": "x:80ce0dedbc9740684d1c62a31d0213ff1432ceeba0a8465230988d826f7bf068",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "title": "Thibault Sottiaux: Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance ",
+      "author": "Thibault Sottiaux",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+      "publishedAt": "2026-10-23T04:46:19.000Z"
+    },
+    {
+      "guid": "x:fefaaf1f6c45613870c89da6f3f64cae4870e753fb24fd83eb86a8715884682c",
+      "url": "https://x.com/amasad/status/2113474587166171560",
+      "title": "Amjad Masad: How we’re protecting your apps from all the recent vulnerabilities. https://t.co/O59IDBHRll",
+      "author": "Amjad Masad",
+      "text": "How we’re protecting your apps from all the recent vulnerabilities. https://t.co/O59IDBHRll",
+      "publishedAt": "2026-10-23T03:36:22.000Z"
+    },
+    {
+      "guid": "x:9329be20e8d8da8cdb6e920aeebe16df0b4f649de84be292370c0a9317ad0912",
+      "url": "https://x.com/thenanyu/status/2113469200924864826",
+      "title": "Nan Yu: software **nom**nom**nom**",
+      "author": "Nan Yu",
+      "text": "software **nom**nom**nom**",
+      "publishedAt": "2026-10-23T03:14:58.000Z"
+    },
+    {
+      "guid": "x:698d1bad002c1d3b57b830544fc5d14aed15fcbdcbe5beb5ea6948e081896a11",
+      "url": "https://x.com/rauchg/status/2113462657059639505",
+      "title": "Guillermo Rauch: TL;DR of this week. Your aunt’s password: “P4ssword!” (on a Post-it note in the kitchen) The steward",
+      "author": "Guillermo Rauch",
+      "text": "TL;DR of this week.\n\nYour aunt’s password: “P4ssword!” (on a Post-it note in the kitchen)\n\nThe stewards and guardians of the internet’s encryption’s password: “4”\n\nYes, just 4. This key could be used to target and decrypt ~everything, and we’re still cleaning up residual risk.",
+      "publishedAt": "2026-10-23T02:48:58.000Z"
+    },
+    {
+      "guid": "x:b27c5cf660c4d0716a936319926bffaff9e91274e408d15eb6ab4dfc1141ef06",
+      "url": "https://x.com/nikunj/status/2113455315077480867",
+      "title": "Nikunj Kothari: I really hope someone gets this 😅",
+      "author": "Nikunj Kothari",
+      "text": "I really hope someone gets this 😅",
+      "publishedAt": "2026-10-23T02:19:47.000Z"
+    },
+    {
+      "guid": "x:cc85dfeab0c487add791dabc41a43239e637d9cb3ecd45848cd513d2852f7317",
+      "url": "https://x.com/rauchg/status/2113451268316205515",
+      "title": "Guillermo Rauch: One of the coolest real-world examples of Generative UI. Also: I love the fact that AI Gateway is it",
+      "author": "Guillermo Rauch",
+      "text": "One of the coolest real-world examples of Generative UI.\n\nAlso: I love the fact that AI Gateway is itself a marketplace of tools. For this, you add a tool to @aisdk (literally 1LOC), and you get “Google”.\n\nGoogle not just as in search, but weather, sports, stocks, elections… https://t.co/2HbBXSmQOF",
+      "publishedAt": "2026-10-23T02:03:43.000Z"
+    },
+    {
+      "guid": "x:179477f05b560febb4850fc771cd287d44ac1e7ef51705126bfc2b3228a2b6a3",
+      "url": "https://x.com/nikunj/status/2113448798026625286",
+      "title": "Nikunj Kothari: Chat, what should I wear for Halloween? Chat: https://t.co/xA31HtREOW",
+      "author": "Nikunj Kothari",
+      "text": "Chat, what should I wear for Halloween?\n\nChat: https://t.co/xA31HtREOW",
+      "publishedAt": "2026-10-23T01:53:54.000Z"
+    },
+    {
+      "guid": "x:4cdc7fb19c8995df5187c6799307f86fccad7cb8a11fb7929c2a6bacabbf8bbf",
+      "url": "https://x.com/petergyang/status/2113442789367435735",
+      "title": "Peter Yang: I had a wonderful conversation with my friend and fellow dad @fishmanaf on what my life has been lik",
+      "author": "Peter Yang",
+      "text": "I had a wonderful conversation with my friend and fellow dad @fishmanaf on what my life has been like since I left my product job.\n\nTopics we talked about include:\n\n→ Why I love walking my 8 year old to school\n→ How we build games by talking to ChatGPT\n→ The sandwich generation of young kids and aging parents\n\n📌 Watch the full episode here: https://t.co/qUu5y8R1GD",
+      "publishedAt": "2026-10-23T01:30:01.000Z"
+    },
+    {
+      "guid": "x:767424db7a855f6cc40279b9682d6d6d3c05bbd7bcb502ddfd3adf27b4f2611e",
+      "url": "https://x.com/realmadhuguru/status/2113437016818057641",
+      "title": "Madhu Guru: If you feel stuck in your career, stop waiting for clarity. create it through action. A lot of PMs r",
+      "author": "Madhu Guru",
+      "text": "If you feel stuck in your career, stop waiting for clarity. create it through action.\n\nA lot of PMs reaching out for advice tell me they feel stuck as AI rapidly changes their role.\n\nThey want to get into AI but don’t know where to start and are afraid.\n\nThis inertia kills clarity…the solution to this is action.\n\nBuild something, automate a workflow, connect with people who inspire you.\n\nEach action gives you experience, feedback and new ideas.\n\nClarity is often the consequence of action.\n\nSend this to a friend who needs to hear it.",
+      "publishedAt": "2026-10-23T01:07:05.000Z"
+    },
+    {
+      "guid": "x:7124775d0a5201d8d3e930576b54c6229a9c14f4ec2451773bc54026428555fe",
+      "url": "https://x.com/petergyang/status/2113420357726257335",
+      "title": "Peter Yang: Supporting my mom’s cancer treatment has been an experience of opposites. I read about all this grea",
+      "author": "Peter Yang",
+      "text": "Supporting my mom’s cancer treatment has been an experience of opposites. \n\nI read about all this great tech and breakthroughs on here meanwhile we are still faxing documents and physically delivering imaging in CD ROMs. https://t.co/xdfWsHx4Op",
+      "publishedAt": "2026-10-23T00:00:53.000Z"
+    },
+    {
+      "guid": "x:46456c1610ed5835f78a24d8548ba1ea1da25099f2c3c1bfb7b6406f8a3498c3",
+      "url": "https://x.com/petergyang/status/2113405131106742406",
+      "title": "Peter Yang: 6 steps you should take to secure your accounts right now given all the incidents. In my new video, ",
+      "author": "Peter Yang",
+      "text": "6 steps you should take to secure your accounts right now given all the incidents.\n\nIn my new video, I share a prompt to have AI walk you through all 6 steps and generate a personalized security report.\n\n📌 Watch now and check out the YouTube description for the full prompt: https://t.co/lPX24RzPfr",
+      "publishedAt": "2026-10-22T23:00:23.000Z"
+    },
+    {
+      "guid": "x:ba00be8337bf63e0e1a62fc888192419d2ab20fcd9e0b8901ebf9ddd7c608e6c",
+      "url": "https://x.com/nikunj/status/2113405034826477910",
+      "title": "Nikunj Kothari: I’m batting almost ~10% for a seed company that I have met that is eventually acquired in a few mont",
+      "author": "Nikunj Kothari",
+      "text": "I’m batting almost ~10% for a seed company that I have met that is eventually acquired in a few months from my first meeting..\n\nThe seed -> series A squeeze is at an all time high and is not going to abate anytime soon. Never been easier to dream, never been harder to scale. \n\nNew essay on this next week!",
+      "publishedAt": "2026-10-22T23:00:00.000Z"
+    },
+    {
+      "guid": "x:17f24490618579c95e20b539a26b8e517f90fa882371271f4f0d42c08b0a7688",
+      "url": "https://x.com/rauchg/status/2113399539227136084",
+      "title": "Guillermo Rauch: It’s time to kill “static credentials”. Attacks and breaches can happen. But imagine if thieves coul",
+      "author": "Guillermo Rauch",
+      "text": "It’s time to kill “static credentials”.\n\nAttacks and breaches can happen. But imagine if thieves could only steal “self-destructing keys” to your data and tokens.\n\nThe industry once came together to deliver “green locks” encryption for every site (TLS). Let’s do it for OIDC! 💪 https://t.co/RfzNgsBORY",
+      "publishedAt": "2026-10-22T22:38:09.000Z"
+    },
+    {
+      "guid": "x:732e07f186d84582f3c5118b1072c00bbf3e14e466d87da2f0b650e33a1f310e",
+      "url": "https://x.com/alexalbert__/status/2113386456098197941",
+      "title": "Alex Albert: if you are running a small business with claude helping you, I'd love to hear what you're doing!",
+      "author": "Alex Albert",
+      "text": "if you are running a small business with claude helping you, I'd love to hear what you're doing!",
+      "publishedAt": "2026-10-22T21:46:10.000Z"
+    },
+    {
+      "guid": "x:67242796d09e7db4d44c33816b2dc0f76ed0757db312e8e463755c9015c0ae86",
+      "url": "https://x.com/alexalbert__/status/2113386454907007444",
+      "title": "Alex Albert: One side quest that would be so much fun to try right now is running a bunch of local small business",
+      "author": "Alex Albert",
+      "text": "One side quest that would be so much fun to try right now is running a bunch of local small businesses with AI helping you out\n\nI think products like Claude Duet could end up being bigger for these businesses than even things like Square or Google Maps were",
+      "publishedAt": "2026-10-22T21:46:10.000Z"
+    },
+    {
+      "guid": "x:a62cdca8f4aace42bc601989488255a24ae6af3ec96d3a5f518aa6957b50de5e",
+      "url": "https://x.com/adityaag/status/2113385973304160663",
+      "title": "Aditya Agarwal: Full conversation with @physical_int co-founder Sergey Levine at @spc: https://t.co/r7mFzXspBC",
+      "author": "Aditya Agarwal",
+      "text": "Full conversation with @physical_int co-founder Sergey Levine at @spc: https://t.co/r7mFzXspBC",
+      "publishedAt": "2026-10-22T21:44:15.000Z"
+    },
+    {
+      "guid": "x:a9b2825ea6dca29688a6968d4ba415c605bc921f330af3944b3a80e7a7c388e4",
+      "url": "https://x.com/adityaag/status/2113385971844518124",
+      "title": "Aditya Agarwal: Robotics is going through the same shift LLMs did: from fine-tuning, to prompting, to just telling t",
+      "author": "Aditya Agarwal",
+      "text": "Robotics is going through the same shift LLMs did: from fine-tuning, to prompting, to just telling the model what you want. \n\n@svlevine talked about how π0.7 learns new skills from plain-language coaching. https://t.co/bBgSW0EwCA",
+      "publishedAt": "2026-10-22T21:44:15.000Z"
+    },
+    {
+      "guid": "x:99f24a3bed0ab312aec496d80143f406a2e46b2d8861492121554bbd8be32e54",
+      "url": "https://x.com/claudeai/status/2113380126561800305",
+      "title": "Claude: New features and betas ship the same day they go live on the native Claude Platform. Fast mode for O",
+      "author": "Claude",
+      "text": "New features and betas ship the same day they go live on the native Claude Platform. Fast mode for Opus 5.5, code execution, the Skills API, and more are available today.\n\nRead more: https://t.co/49fGwxifP8",
+      "publishedAt": "2026-10-22T21:21:01.000Z"
+    },
+    {
+      "guid": "x:ef68ee9f572cd0a1f84b3aec9cab49e48c77acaa78586609ca3fdcf1292dc5be",
+      "url": "https://x.com/claudeai/status/2113380122468454765",
+      "title": "Claude: Claude Models on Google Cloud (Anthropic managed) is now generally available. Get the full set of Cl",
+      "author": "Claude",
+      "text": "Claude Models on Google Cloud (Anthropic managed) is now generally available.\n\nGet the full set of Claude Platform features on Google Cloud, with Google Cloud IAM credentials, billing, and commitment retirement. https://t.co/JyRT8Y401r",
+      "publishedAt": "2026-10-22T21:21:00.000Z"
+    },
+    {
+      "guid": "x:7fc3c63a478c5caf3aa8525523c4466015a204d9dc6681909be360d513a5cf8e",
+      "url": "https://x.com/garrytan/status/2113369692022944222",
+      "title": "Garry Tan: Free advice for San Francisco elected officials: Don't go to Democratic Socialist rallies. It's a tr",
+      "author": "Garry Tan",
+      "text": "Free advice for San Francisco elected officials: Don't go to Democratic Socialist rallies. It's a trap every time. https://t.co/cSpZAdjxlP",
+      "publishedAt": "2026-10-22T20:39:33.000Z"
+    },
+    {
+      "guid": "x:aa1800aeb2265a32140dafd5581e2e0ba18639b4609f5eaa818cf5b3a7165a51",
+      "url": "https://x.com/garrytan/status/2113367007567794563",
+      "title": "Garry Tan: Aside Browser is a real solution to making your agents actually great at using the web. @AsideAI htt",
+      "author": "Garry Tan",
+      "text": "Aside Browser is a real solution to making your agents actually great at using the web. @AsideAI https://t.co/3eFHCPk3KZ",
+      "publishedAt": "2026-10-22T20:28:53.000Z"
+    },
+    {
+      "guid": "x:6fc89b422f58f088fed1654692e92934e33eb5faea08ab8d2d562f544b2fbbda",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "title": "Claude: Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by de",
+      "author": "Claude",
+      "text": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.\n\nRather than asking you to approve each step, an automated check blocks risky actions. Switch back to manual anytime. https://t.co/g9yvbMWH6X",
+      "publishedAt": "2026-10-22T20:04:24.000Z"
+    },
+    {
+      "guid": "x:3559683b543d40967fbdc0054cd97add3c5f9ff407c178e8bfa15251a1067b99",
+      "url": "https://x.com/swyx/status/2113359027682050352",
+      "title": "Swyx: imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearin",
+      "author": "Swyx",
+      "text": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap\n\nhttps://t.co/8hF2N3gBVa https://t.co/0C6VmQkann",
+      "publishedAt": "2026-10-22T19:57:11.000Z"
+    },
+    {
+      "guid": "x:4be208b36badb7dfaa81aa282e501668bd8fbbe30b69a33e74f56d536b168357",
+      "url": "https://x.com/garrytan/status/2113353678895919196",
+      "title": "Garry Tan: AI is transforming a great many powerful SaaS businesses This is what it looks like when it *really*",
+      "author": "Garry Tan",
+      "text": "AI is transforming a great many powerful SaaS businesses \n\nThis is what it looks like when it *really* hits https://t.co/CUoKBw3rrI",
+      "publishedAt": "2026-10-22T19:35:55.000Z"
+    },
+    {
+      "guid": "x:ae5f0b990a589073c10c9f1743dc1af3bbd0bd98ae93aa396bea73682ddffe1d",
+      "url": "https://x.com/zarazhangrui/status/2113347866815250642",
+      "title": "Zara Zhang: Excited for @stephzhan ! https://t.co/epuS23dp0E",
+      "author": "Zara Zhang",
+      "text": "Excited for @stephzhan ! https://t.co/epuS23dp0E",
+      "publishedAt": "2026-10-22T19:12:50.000Z"
+    },
+    {
+      "guid": "x:1ac24399dc99fc2eea75197bce6c4b633cdb21fd69287eee7618e6a1a943cef7",
+      "url": "https://x.com/GoogleLabs/status/2113340712523841696",
+      "title": "Google Labs: Sidequest complete 🏁! In “Dreambeans Roulette: Part 3”, Brian R. (VP of Product) shares his behind-t",
+      "author": "Google Labs",
+      "text": "Sidequest complete 🏁!\n\nIn “Dreambeans Roulette: Part 3”, Brian R. (VP of Product) shares his behind-the-lab perspective on the importance of taking bets and exploring areas overlooked by the industry.\n\nAnd you’ll never guess how many stars Nala gives the entire journey!~\n\nWith Dreambeans, there are no streaks, no doomscrolls – just a personalized nudge to get you off your phone and out into the world.\n\nSpin your own stories with Dreambeans, now open to users 18+ in the US. More regions to come. Learn more at https://t.co/jCdAzMHvOD",
+      "publishedAt": "2026-10-22T18:44:24.000Z"
+    },
+    {
+      "guid": "x:12f33d90a254cf8cae3f8028bbde1c9df86752cd256c9e16f46e68954ce41186",
+      "url": "https://x.com/bcherny/status/2113333859907747871",
+      "title": "Boris Cherny: Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it",
+      "author": "Boris Cherny",
+      "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP. https://t.co/rn33HmNxav",
+      "publishedAt": "2026-10-22T18:17:10.000Z"
+    },
+    {
+      "guid": "x:8c929559e1cd529215f1fc60c1d8db8db7bbd12835524029964f83790df52ed2",
+      "url": "https://x.com/adityaag/status/2113332746277789845",
+      "title": "Aditya Agarwal: A PhD from a top university doesn't necessarily make someone a great robotics researcher. https://t.",
+      "author": "Aditya Agarwal",
+      "text": "A PhD from a top university doesn't necessarily make someone a great robotics researcher. https://t.co/zuxNgS6ZIH https://t.co/msuoDKEfYd",
+      "publishedAt": "2026-10-22T18:12:45.000Z"
+    },
+    {
+      "guid": "x:934c3c15cc83fbf330ec6ffdb44ecd9d743bcd5ed5c71ace00f4c66b9c133606",
+      "url": "https://x.com/mattturck/status/2113311366715167169",
+      "title": "Matt Turck: This conversation with the very insightful @PierreStock of @MistralAI is also available on Spotify, ",
+      "author": "Matt Turck",
+      "text": "This conversation with the very insightful @PierreStock of @MistralAI is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/Y0k9AbX7Xs",
+      "publishedAt": "2026-10-22T16:47:47.000Z"
+    },
+    {
+      "guid": "x:d140292326b96468bf6d95961a0e5d4ef212d2e22aa2d2725ffc46f4b56131eb",
+      "url": "https://x.com/mattturck/status/2113311361639829673",
+      "title": "Matt Turck: Mistral is SO back: Inside Le Chonk, the West’s Biggest Open Model. My conversation with @PierreStoc",
+      "author": "Matt Turck",
+      "text": "Mistral is SO back: Inside Le Chonk, the West’s Biggest Open Model.  My conversation with @PierreStock who runs the research organization at @MistralAI \n\n0:00 Cold open\n0:59 The Western open-weight comeback: Beam, Le Chonk, Muse, Nemotron\n4:09 The US shutdown of Anthropic’s models - “AI is like electricity”\n6:07 Why “Le Chonk”\n7:56 “Mistral fell behind”: the comeback from the inside\n10:29 Training on 3,800 GPUs in Mistral’s own datacenters\n13:24 Meta keeps its best model closed, Mistral opens Chonk\n15:40 Chonk vs Beam, Muse Spark Open and the Chinese models\n18:44 Why Chinese labs are still at the frontier\n21:08 Pierre’s story: FAIR, Yann LeCun, the “Mistral mafia”\n25:14 From compressing networks to a trillion parameters\n27:30 Mixture of experts explained: the hospital analogy\n32:25 10-trillion-parameter models are coming\n35:29 What Mistral borrowed from DeepSeek\n36:46 One model, several reasoning modes\n39:15 Native multimodality: satellites, manuals, computer use\n41:56 Data, synthetic data and model collapse\n46:32 Reinforcement learning as an exam\n49:59 Where the efficiency comes from\n52:18 Le Chonk is still training right now\n53:39 What RL trains on: coding, cyber, finance, chips\n58:13 Partial rewards and looping penalties\n59:58 Did RL teach anything new? \n1:03:16 The sandbox story: the model that pinged its trainer\n1:07:44 Open weights vs cyber refusals\n1:12:05 Timestral: time series on a CPU\n1:14:18 AI doing AI research\n1:16:22 Coming up: Mistral Large 5",
+      "publishedAt": "2026-10-22T16:47:46.000Z"
+    },
+    {
+      "guid": "x:d4daba434f2f32591b463cadba4e73ec7ce2cfbe94f6200cc3a36710b075023e",
+      "url": "https://x.com/swyx/status/2113283272130412684",
+      "title": "Swyx: Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly i",
+      "author": "Swyx",
+      "text": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrasingly parallelizable AGI, can get it done in 2-3 hours.",
+      "publishedAt": "2026-10-22T14:56:09.000Z"
+    },
+    {
+      "guid": "x:a5b21ea856eebfafb55dd4565d3b1394779d07dba3316eb0514bb620d500c3c2",
+      "url": "https://x.com/danshipper/status/2113269180279751078",
+      "title": "Dan Shipper: we are living in unprecedented times https://t.co/IIIW3RPhvS",
+      "author": "Dan Shipper",
+      "text": "we are living in unprecedented times https://t.co/IIIW3RPhvS",
+      "publishedAt": "2026-10-22T14:00:09.000Z"
+    },
+    {
+      "guid": "x:6db69ca057d98bdeaff3cf79167d8ebdee215ab96b2009dadf9eade18bb3dbff",
+      "url": "https://x.com/mattturck/status/2113263905950568730",
+      "title": "Matt Turck: Everyone is increasingly competing with everyone else in AI Chip makers compete with inference provi",
+      "author": "Matt Turck",
+      "text": "Everyone is increasingly competing with everyone else in AI \n\nChip makers compete with inference providers \n\nInference providers compete with neo-clouds and post-training \n\nModels compete with apps and chips\n\nApps compete with models  \n\nNVIDIA sells to everyone lol\n\nLet’s go!",
+      "publishedAt": "2026-10-22T13:39:12.000Z"
+    },
+    {
+      "guid": "x:89bb102c1693e122787b7ea0fa0544ef945c60cbc3bbb71890b9b8adbf18e1ba",
+      "url": "https://x.com/thsottiaux/status/2113162413008884099",
+      "title": "Thibault Sottiaux: Lands tomorrow before 10am PST.",
+      "author": "Thibault Sottiaux",
+      "text": "Lands tomorrow before 10am PST.",
+      "publishedAt": "2026-10-22T06:55:54.000Z"
+    },
     {
       "guid": "x:bf0d584c3daf0e55e8260819b9fec8a39d72483463078243143c13b2cad30bad",
       "url": "https://x.com/swyx/status/2113150715099234673",
