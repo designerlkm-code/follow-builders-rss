@@ -1,29 +1,23 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 38,
-    "retainedItems": 316,
-    "generatedAt": "2026-10-23T06:42:39.698Z",
+    "newSnapshotItems": 28,
+    "retainedItems": 344,
+    "generatedAt": "2026-10-24T06:39:06.255Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
     "newSnapshotItems": 1,
-    "retainedItems": 9,
-    "generatedAt": "2026-10-23T06:42:49.023Z",
-    "upstreamErrors": [
-      "Podcast: Transcript error for \"Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
-      "Podcast: Transcript error for \"You are the Team  — Anekha Sokhal, Moshi\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}",
-      "Podcast: Transcript error for \"Mistral Is SO Back: Inside Le Chonk, the West’s Biggest Open Model (Pierre Stock, VP Science, Mistral)\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}",
-      "Podcast: Transcript error for \"The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}",
-      "Podcast: Transcript error for \"AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess\": HTTP 404: {\"status\":\"error\",\"message\":\"Episode not found\"}"
-    ]
+    "retainedItems": 10,
+    "generatedAt": "2026-10-24T06:39:41.667Z",
+    "upstreamErrors": []
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-23T06:42:49.650Z",
+    "generatedAt": "2026-10-24T06:39:42.082Z",
     "upstreamErrors": []
   }
 }
