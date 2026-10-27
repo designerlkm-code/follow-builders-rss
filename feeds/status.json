@@ -1,23 +1,25 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 14,
-    "retainedItems": 381,
-    "generatedAt": "2026-10-26T06:55:24.342Z",
+    "newSnapshotItems": 32,
+    "retainedItems": 413,
+    "generatedAt": "2026-10-27T06:44:38.100Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
     "newSnapshotItems": 1,
     "retainedItems": 10,
-    "generatedAt": "2026-10-26T06:55:27.744Z",
-    "upstreamErrors": []
+    "generatedAt": "2026-10-27T06:44:45.267Z",
+    "upstreamErrors": [
+      "Podcast: Transcript error for \"⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
+    ]
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-26T06:55:28.075Z",
+    "generatedAt": "2026-10-27T06:44:45.824Z",
     "upstreamErrors": []
   }
 }

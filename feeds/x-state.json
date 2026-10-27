@@ -1,6 +1,262 @@
 {
-  "generatedAt": "2026-10-26T06:55:24.342Z",
+  "generatedAt": "2026-10-27T06:44:38.100Z",
   "items": [
+    {
+      "guid": "x:a8c01e5c8d47d13d42a3d369c24ab72b1ec9085993a0ce349ed86dfd860112d0",
+      "url": "https://x.com/nikunj/status/2114929285890990574",
+      "title": "Nikunj Kothari: Maybe I should just change my job.. https://t.co/kHDC0z48LF",
+      "author": "Nikunj Kothari",
+      "text": "Maybe I should just change my job.. https://t.co/kHDC0z48LF",
+      "publishedAt": "2026-10-27T03:56:49.000Z"
+    },
+    {
+      "guid": "x:d4788f0a6d8bab4ccdfbae2c71597dfa63a2fe9dc90c92e12ec1f6cd4908416d",
+      "url": "https://x.com/petergyang/status/2114928082712998087",
+      "title": "Peter Yang: @bot This is probably not a good thing overall",
+      "author": "Peter Yang",
+      "text": "@bot This is probably not a good thing overall",
+      "publishedAt": "2026-10-27T03:52:03.000Z"
+    },
+    {
+      "guid": "x:3a9d4c538ed60bfd29535c2a61cdc64962d6886853278ba837c5efeb785d026a",
+      "url": "https://x.com/petergyang/status/2114927195332460940",
+      "title": "Peter Yang: In the near future, instead of reading or doing anything online, people are just going to tag their ",
+      "author": "Peter Yang",
+      "text": "In the near future, instead of reading or doing anything online, people are just going to tag their agent to do it. \n\n@bot is an early signal of this.",
+      "publishedAt": "2026-10-27T03:48:31.000Z"
+    },
+    {
+      "guid": "x:49675e8cdc62a905244368436aa5f452fd4badfc3eaf8a45a44b7019d5442129",
+      "url": "https://x.com/adityaag/status/2114907777957245033",
+      "title": "Aditya Agarwal: More and more I am coming to accept that our understanding of the sciences were but limited by our d",
+      "author": "Aditya Agarwal",
+      "text": "More and more I am coming to accept that our understanding of the sciences were but limited by our desire to have solutions that we could understand.",
+      "publishedAt": "2026-10-27T02:31:22.000Z"
+    },
+    {
+      "guid": "x:14e43f25f38946e72b80efb4ae0d22acc4c31fcbccb9787a2ca6e0f47947f77b",
+      "url": "https://x.com/petergyang/status/2114905151572263242",
+      "title": "Peter Yang: This is the stuff that I’m excited about not the 9th personal agent to manage my emails https://t.co",
+      "author": "Peter Yang",
+      "text": "This is the stuff that I’m excited about not the 9th personal agent to manage my emails https://t.co/HB5ssCfYjq",
+      "publishedAt": "2026-10-27T02:20:55.000Z"
+    },
+    {
+      "guid": "x:afd38dc7a78a4b23fd926092fb46576506f8e35203b53557567aa22418549233",
+      "url": "https://x.com/amasad/status/2114890745471545419",
+      "title": "Amjad Masad: OpenAI asked three scientific communities how to release its discoveries and got three different ans",
+      "author": "Amjad Masad",
+      "text": "OpenAI asked three scientific communities how to release its discoveries and got three different answers:\n\nMathematicians: “Just post it. Who gives a shit anymore.”\n\nComputer scientists: “Open source it, but also pay for our conference.”\n\nPhysicists: “Leave it to us, nerds.” https://t.co/5cpEOIADpY",
+      "publishedAt": "2026-10-27T01:23:41.000Z"
+    },
+    {
+      "guid": "x:5899fbfca6761b60c505b01ddfd54798fa357eb5d447cb0b1e146920505d5dd1",
+      "url": "https://x.com/steipete/status/2114879798434758905",
+      "title": "Peter Steinberger: I spent some time on the weekend to test bun's AOT compiler and results are nothing short of amazing",
+      "author": "Peter Steinberger",
+      "text": "I spent some time on the weekend to test bun's AOT compiler and results are nothing short of amazing. Performance up 2-3x, memory use less than half. https://t.co/2yobmkrUUa",
+      "publishedAt": "2026-10-27T00:40:11.000Z"
+    },
+    {
+      "guid": "x:6eacbd6113dcf08f15dd68fc9b213178970667d3aaddddb3596c3c387156bea0",
+      "url": "https://x.com/steipete/status/2114879359857422729",
+      "title": "Peter Steinberger: Banger. https://t.co/MzQY2HvarM",
+      "author": "Peter Steinberger",
+      "text": "Banger. https://t.co/MzQY2HvarM",
+      "publishedAt": "2026-10-27T00:38:26.000Z"
+    },
+    {
+      "guid": "x:55a22ab84f87b906e733b8f1ce320e0ce5e7fd7fa57373eb68575ecda2df5f54",
+      "url": "https://x.com/swyx/status/2114864999709753526",
+      "title": "Swyx: will you buy $ANT stock at a $2T valuation?",
+      "author": "Swyx",
+      "text": "will you buy $ANT stock at a $2T valuation?",
+      "publishedAt": "2026-10-26T23:41:22.000Z"
+    },
+    {
+      "guid": "x:e3d9a431e9e995535e59aa4630f4c9b069f50ec50bab674ca79a3dc852fdffb9",
+      "url": "https://x.com/danshipper/status/2114849110553440469",
+      "title": "Dan Shipper: back to the part of the cycle where i regret not getting a phd in frontier math and theoretical comp",
+      "author": "Dan Shipper",
+      "text": "back to the part of the cycle where i regret not getting a phd in frontier math and theoretical comp sci \n\n(not that i ever considered getting one but still) https://t.co/Wr5BC5sSlS",
+      "publishedAt": "2026-10-26T22:38:14.000Z"
+    },
+    {
+      "guid": "x:24dffb5f48d3233d01520764dd4630bb83832e87e45d967e8bb81187c9bc5fbd",
+      "url": "https://x.com/joshwoodward/status/2114840670016065576",
+      "title": "Josh Woodward: https://t.co/CC63BMiD4z",
+      "author": "Josh Woodward",
+      "text": "https://t.co/CC63BMiD4z",
+      "publishedAt": "2026-10-26T22:04:42.000Z"
+    },
+    {
+      "guid": "x:e32aceeb4862e97188d727687becf6256c3b242252e39d9a67be0e0f79a12121",
+      "url": "https://x.com/joshwoodward/status/2114840668296409568",
+      "title": "Josh Woodward: 🇺🇸 For a deployed service member, missing family moments adds up. Baby’s first step. The first perfo",
+      "author": "Josh Woodward",
+      "text": "🇺🇸 For a deployed service member, missing family moments adds up. Baby’s first step. The first performance. Sharing a laugh.\n\nIn honor of National Day of the Deployed, we’re excited to partner with @USArmy and @The_USO to bring Google Beam to 20 locations so deployed service members can experience lifelike, 3D video connections with their loved ones.\n\n🎥 Watch the docuseries below",
+      "publishedAt": "2026-10-26T22:04:41.000Z"
+    },
+    {
+      "guid": "x:63dd2c0b5c1ca49fdbd017a06a43a19b59e4c05d79a596a22276812d43a44162",
+      "url": "https://x.com/mattturck/status/2114829981884817513",
+      "title": "Matt Turck: Anthropic S-1 highlights video ONE SHOT (just one prompt, no editing) using @synthesiaIO Syren https",
+      "author": "Matt Turck",
+      "text": "Anthropic S-1 highlights video\n\nONE SHOT (just one prompt, no editing) using @synthesiaIO Syren https://t.co/n04eP7w39f",
+      "publishedAt": "2026-10-26T21:22:13.000Z"
+    },
+    {
+      "guid": "x:ad3c20c291dc3c8feed1b03920d7956084bc5eb476abbfbee989bd67467c4be7",
+      "url": "https://x.com/swyx/status/2114824910707277997",
+      "title": "Swyx: @grok how many of my reply guys are ai",
+      "author": "Swyx",
+      "text": "@grok how many of my reply guys are ai",
+      "publishedAt": "2026-10-26T21:02:04.000Z"
+    },
+    {
+      "guid": "x:89dff7755e2c6f265e6b9833282e7aefc3cb07e6d2e5e3c3316d429a0d5d21bd",
+      "url": "https://x.com/sama/status/2114818620782248024",
+      "title": "Sam Altman: 6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of ",
+      "author": "Sam Altman",
+      "text": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use. https://t.co/TbpHp75Os0",
+      "publishedAt": "2026-10-26T20:37:05.000Z"
+    },
+    {
+      "guid": "x:e1bf8337124498715920159ab30a9b178046b7d6cd519034640f601bbb3bcb1b",
+      "url": "https://x.com/swyx/status/2114805687226376267",
+      "title": "Swyx: bro moved from Claude Code to AIE Code power move tbh https://t.co/e1UIPeO2qr",
+      "author": "Swyx",
+      "text": "bro moved from Claude Code to AIE Code\n\npower move tbh https://t.co/e1UIPeO2qr",
+      "publishedAt": "2026-10-26T19:45:41.000Z"
+    },
+    {
+      "guid": "x:72c198b232d38568368a2518892bba6f5c747eb0b59a12de0046d38c2c067627",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "title": "Thibault Sottiaux: Day 22/ Terra is back! Our first model that is significantly better at writing, personality and nuan",
+      "author": "Thibault Sottiaux",
+      "text": "Day 22/ Terra is back! \n\nOur first model that is significantly better at writing,  personality and nuanced understanding of requests.\n\nPacks a punch across the board, very good at computer use, and gives 2X more usage than 6.1 Sol across API and subscriptions. https://t.co/1ilnCkAPuy",
+      "publishedAt": "2026-10-26T19:24:11.000Z"
+    },
+    {
+      "guid": "x:0e741396b0703fb867b70328b15d818e8c73002c2c1e6005fb637db1ebeada53",
+      "url": "https://x.com/thenanyu/status/2114800172270252037",
+      "title": "Nan Yu: “Delightful” they said in the design crit https://t.co/yrse5yfssx",
+      "author": "Nan Yu",
+      "text": "“Delightful” they said in the design crit \n\nhttps://t.co/yrse5yfssx",
+      "publishedAt": "2026-10-26T19:23:46.000Z"
+    },
+    {
+      "guid": "x:b856d61f10a21acc0af112e7e040c4c3060711bf086f9f2b56defaf9346c7e7d",
+      "url": "https://x.com/trq212/status/2114796261362835842",
+      "title": "Thariq: going to be sharing my WoW forever shaman build at the AIE Code closing keynote https://t.co/KRHSYRa",
+      "author": "Thariq",
+      "text": "going to be sharing my WoW forever shaman build at the AIE Code closing keynote https://t.co/KRHSYRa4Jk",
+      "publishedAt": "2026-10-26T19:08:14.000Z"
+    },
+    {
+      "guid": "x:bd551ea554a68fd6cb5b25efd3d05a6a3c8e2ec2b378b34c266c6b2d4e75b670",
+      "url": "https://x.com/adityaag/status/2114793226154418314",
+      "title": "Aditya Agarwal: The biggest risk to American AI is scaring ourselves into slowing down. Fear is a policy choice. So ",
+      "author": "Aditya Agarwal",
+      "text": "The biggest risk to American AI is scaring ourselves into slowing down.\n\nFear is a policy choice. So is building.\n\nHad a great conversation with @sriramk at @spc last week. https://t.co/A1dq5Nv2WM",
+      "publishedAt": "2026-10-26T18:56:10.000Z"
+    },
+    {
+      "guid": "x:292ced8253c2461ba0ae28405d664336ac3d2d3bccde105bd250d7b3b2f15d6d",
+      "url": "https://x.com/claudeai/status/2114780227465338985",
+      "title": "Claude: More than 25,000 nonprofits now use Claude. Most are small, local teams. We’re expanding Claude for ",
+      "author": "Claude",
+      "text": "More than 25,000 nonprofits now use Claude. Most are small, local teams.\n\nWe’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy: https://t.co/LWHcr1CT20 https://t.co/WHG2zRDyxO",
+      "publishedAt": "2026-10-26T18:04:31.000Z"
+    },
+    {
+      "guid": "x:cc7bf5dceb8f41745bf3c4d8b9c7bd3ae4a64d9c0dda5141ba859277cd5db1aa",
+      "url": "https://x.com/rauchg/status/2114770919436808572",
+      "title": "Guillermo Rauch: I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU. It run",
+      "author": "Guillermo Rauch",
+      "text": "I built 𝚌𝚙𝚞-𝚌𝚑𝚊𝚝, a reproduction of @openai's findings of covert communication using the CPU.\n\nIt runs on a generic host with 2+ Firecracker microVMs with no internet access. Works on x86 and even my M5 chip.\n\nI was able to chat via 3 separate mechanisms:\n① CPU contention\n② Cache eviction timing\n③ DRAM bandwidth contention \n\n… across multiple CPUs, defeating all Firecracker's production recommendations (no SMT, no KSM, tenants pinned to different cores.)\n\nEssentially, if shared hardware is involved, there's a good chance your agents can communicate covertly. And with really decent latency.\n\nThe good news: this is decidedly different from a *side-channel attack* where the agents could steal information (Meltdown/Spectre), a category of attack that providers like Vercel Sandbox mitigate. Further, in our real-world environment, these 'whispering' techniques are much harder to pull off and easier for us to monitor and detect (sampling hardware counters + lots of at-scale statistical data.)\n\nNoteworthy: ironically, OpenAI and Anthropic's models refused to do this work. Open weight models got the job done. I'm worried the labs' stance might backfire and get in the way of helping developers build correct and secure systems. e.g: building a secure sandbox requires having this kind of analysis, and without it, we'll have a less secure world.",
+      "publishedAt": "2026-10-26T17:27:32.000Z"
+    },
+    {
+      "guid": "x:7df84e99b854de9540969ce40bc0a6d5e54ddc7a809e1284d4ec87a95841885b",
+      "url": "https://x.com/amasad/status/2114769129282601053",
+      "title": "Amjad Masad: Software ate the world, now it's learning to run it. https://t.co/e0XiyjLgv8",
+      "author": "Amjad Masad",
+      "text": "Software ate the world, now it's learning to run it. https://t.co/e0XiyjLgv8",
+      "publishedAt": "2026-10-26T17:20:25.000Z"
+    },
+    {
+      "guid": "x:01e9a111fd5a291bef2093ad01c87cf5c81d56e83af3b3c242d1ede753e9c540",
+      "url": "https://x.com/danshipper/status/2114767454026990063",
+      "title": "Dan Shipper: dang this is big https://t.co/Csh4Tzkrmi",
+      "author": "Dan Shipper",
+      "text": "dang this is big https://t.co/Csh4Tzkrmi",
+      "publishedAt": "2026-10-26T17:13:46.000Z"
+    },
+    {
+      "guid": "x:f292e5bc7a972c25d77f335e125dcc7ecf2987650571e9ec79f2e2e66adbcabb",
+      "url": "https://x.com/adityaag/status/2114763380124987494",
+      "title": "Aditya Agarwal: This is such a banger that I cannot recommend it enough. https://t.co/9k1mU8VCTC Key section below: ",
+      "author": "Aditya Agarwal",
+      "text": "This is such a banger that I cannot recommend it enough.\n\nhttps://t.co/9k1mU8VCTC\n\nKey section below: https://t.co/RwkDJRl44l",
+      "publishedAt": "2026-10-26T16:57:34.000Z"
+    },
+    {
+      "guid": "x:c8233b055075eb3b2625808b3defc4f6abfc7e5abfcd8d6aedd7fac077f247e7",
+      "url": "https://x.com/levie/status/2114761816199098587",
+      "title": "Aaron Levie: This is the key stat. The average Fortune 500 customer of Anthropic spends less than .1% of their ex",
+      "author": "Aaron Levie",
+      "text": "This is the key stat. The average Fortune 500 customer of Anthropic spends less than .1% of their expenses on Anthropic. \n\nWhile that number likely will eventually asymptote somewhere (token prices coming down, and other large enterprise spend areas not going away), there’s no reason it can’t be 10-50X higher than this, reaching a “mere” 1-5% of spend. Which would still be a fraction of what most startups are spending.\n\nThus, you can see how big of a divide there is between the frontier users of AI and the rest of the world still.\n\nToday, only a microscopically small set of companies are actually using agents for large amounts of background tasks and inside of workflows that aren’t human prompted. This Fortune 500 spend is likely dominated by coding tasks and broad employee productivity use-cases.\n\nBut the big jump will come as these enterprises start to rewire their underlying processes for agents, which we’re now in the earliest stages of seeing. Agents processing large amounts of data in the enterprises; swarms doing coding, bio research, cyber, and other large fan out tasks; background workflows executing tasks in processes, and so on. All of these use cases generally are 100X bigger consumers of tokens, and much closer to direct ROI on the spend.\n\nThis S-1 gives you a sense of both the strength of the frontier lab business model - even amidst massive competition - and how early we are in the build out of AI.",
+      "publishedAt": "2026-10-26T16:51:22.000Z"
+    },
+    {
+      "guid": "x:2fb12928869854fda6bb268a426ffaa2d11e478124fadea708d38b576e3dd7b6",
+      "url": "https://x.com/nikunj/status/2114761204333998427",
+      "title": "Nikunj Kothari: The main thing I wanted to dig into @AnthropicAI's S-1 was the compute contracts.. A few things that",
+      "author": "Nikunj Kothari",
+      "text": "The main thing I wanted to dig into @AnthropicAI's S-1 was the compute contracts..\n\nA few things that stood out (built in conjuction with Opus 5.5):\n\n> At June 30, Anthropic had $265.6B of purchase commitments and $321.4B of leases that hadn’t started. That’s a $587B subtotal, payable over years, including some conditional leases. The latest aggregate total is still blank in the filing.\n\n> The contracts are very different. Google and Amazon require minimum spending regardless of usage. SpaceXAI’s agreements have a potential value of $120.5B, but either party can cancel on 90 days’ notice after initial locked periods end in January and March 2027.\n\n> Anthropic Direct separates chips, buildings, power and operations into different contracts. It lets Anthropic reserve a building early and commit to chips later. It also means one supplier can start billing before the others are ready. Equipment rent can begin before the compute is usable.\n\n> Broadcom’s $42B facility never hands Anthropic cash. Notes settle specific equipment rent bills. The facility excludes each equipment pod’s first quarterly payment and any rent due before it is ready for service. Anthropic has to find a way to fund those payments elsewhere.\n\n> Those notes carry 9% interest, added to the balance quarterly, and can convert at 90% of the trailing 30-day average share price after IPO. New notes issued during specified revenue-breach periods get 13% interest and an 85% conversion price. The share-price measure is volume-weighted.\n\n> That interest sits on top of the equipment lease’s own financing charge, whose rate is confidential. The investor chooses whether to convert the notes. Otherwise, principal and accumulated interest come due in cash.\n\n> Anthropic treats Trainium, TPUs, NVIDIA and AMD GPUs as a shared fleet across model development, paying customers and internal use. It doesn’t disclose a fixed physical split between training and inference. The supplier bill can be fixed while the work assigned to the hardware changes.\n\n> Revenue per dollar of total compute and infrastructure expense rose from $0.57 in Q2 2025 to $2.08 in Q2 2026. Pricing, utilization, technical improvements and when capacity arrives all affect that ratio. It’s a substantial improvement in monetizing the compute base.\n\n> About 80% of H1 revenue was consumption-based. Most compute commitments however run for years. With quarterly releases, this bifurcation between usage and subscription will be interesting to monitor. \n\nSource: https://t.co/97KqkyyfpS",
+      "publishedAt": "2026-10-26T16:48:56.000Z"
+    },
+    {
+      "guid": "x:e8bbf3ae243f2b4da3e6ca0781fb849908e4fb7d22254bacab9ddee219762ecd",
+      "url": "https://x.com/amasad/status/2114760898225299721",
+      "title": "Amjad Masad: For centuries, the architecture of the firm has barely changed: hierarchies of people organized into",
+      "author": "Amjad Masad",
+      "text": "For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy.\n\nAI agents are about to upend that.\n\nWe’re moving toward the self-driving company where humans exercise judgment and agents execute most of the work.\n\nAt Replit, we’re building the foundation for this new kind of company. We’re calling it “the Agent Habitat.”\n\nMarc Andreessen wrote a fantastic piece placing this shift in the history of computing. Every major computing revolution began with chaos before businesses figured out how to harness it.",
+      "publishedAt": "2026-10-26T16:47:43.000Z"
+    },
+    {
+      "guid": "x:ba8ebc2f3461c011ea3837d4dacc1aa7d8bf9b9405572c5f39302f2694208274",
+      "url": "https://x.com/mattturck/status/2114755282181955616",
+      "title": "Matt Turck: Particularly evil of Anthropic to file their S-1 on a Monday morning when all VCs are stuck in Monda",
+      "author": "Matt Turck",
+      "text": "Particularly evil of Anthropic to file their S-1 on a Monday morning when all VCs are stuck in Monday team and partner meetings, making us unable to provide immediate #thoughtleadership with those S-1 teardowns that everyone is dying to read",
+      "publishedAt": "2026-10-26T16:25:24.000Z"
+    },
+    {
+      "guid": "x:4937aec2e7237c8591e398fa192149f1df62bdfac390c50f1b137d68851b7b8a",
+      "url": "https://x.com/garrytan/status/2114739519622963671",
+      "title": "Garry Tan: Publish your stack https://t.co/uhw9AK7ee1",
+      "author": "Garry Tan",
+      "text": "Publish your stack https://t.co/uhw9AK7ee1",
+      "publishedAt": "2026-10-26T15:22:46.000Z"
+    },
+    {
+      "guid": "x:eb7caad35c9edd1955a43f4e32d95045bd8613a19b2f0ca9bbf1e6f9a1174436",
+      "url": "https://x.com/nikunj/status/2114736254642528659",
+      "title": "Nikunj Kothari: 👀 https://t.co/0zczDIns1d",
+      "author": "Nikunj Kothari",
+      "text": "👀 https://t.co/0zczDIns1d",
+      "publishedAt": "2026-10-26T15:09:47.000Z"
+    },
+    {
+      "guid": "x:8569e9394117256ae46b83ca34497aed453010f31596d6b0aa49f9410bf0b2fc",
+      "url": "https://x.com/danshipper/status/2114714881312305542",
+      "title": "Dan Shipper: okay so Anthropic S-1: - Revenue up 1,300% YOY in 1H 2026 - GAAP operating profitable - 85% gross ma",
+      "author": "Dan Shipper",
+      "text": "okay so Anthropic S-1:\n\n- Revenue up 1,300% YOY in 1H 2026\n- GAAP operating profitable\n- 85% gross margin\n- 900% revenue retention\n- 80% of revenue coming from models released in the last 6 months\n\nwe are so back!",
+      "publishedAt": "2026-10-26T13:44:51.000Z"
+    },
     {
       "guid": "x:28a2c487759acf0576c3281b22148516b4fc871a596b64b2e39da6255eb93ba1",
       "url": "https://x.com/thsottiaux/status/2114595002210783279",
