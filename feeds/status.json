@@ -1,25 +1,25 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 32,
-    "retainedItems": 413,
-    "generatedAt": "2026-10-27T06:44:38.100Z",
+    "newSnapshotItems": 29,
+    "retainedItems": 442,
+    "generatedAt": "2026-10-28T06:32:16.853Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
-    "newSnapshotItems": 1,
+    "newSnapshotItems": 0,
     "retainedItems": 10,
-    "generatedAt": "2026-10-27T06:44:45.267Z",
+    "generatedAt": "2026-10-28T06:32:21.072Z",
     "upstreamErrors": [
-      "Podcast: Transcript error for \"⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
+      "Podcast: Transcript error for \"How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands\": HTTP 500: {\"status\":\"error\",\"message\":\"Failed to get transcript\"}"
     ]
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-27T06:44:45.824Z",
+    "generatedAt": "2026-10-28T06:32:21.406Z",
     "upstreamErrors": []
   }
 }

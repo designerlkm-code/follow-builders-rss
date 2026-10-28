@@ -1,6 +1,238 @@
 {
-  "generatedAt": "2026-10-27T06:44:38.100Z",
+  "generatedAt": "2026-10-28T06:32:16.853Z",
   "items": [
+    {
+      "guid": "x:3d3551e940f1f3f58f33ec84b5cb4fff0203e9612ff639f37c5d2bd038c0b43c",
+      "url": "https://x.com/thsottiaux/status/2115330127886463244",
+      "title": "Thibault Sottiaux: And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "author": "Thibault Sottiaux",
+      "text": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "publishedAt": "2026-10-28T06:29:38.000Z"
+    },
+    {
+      "guid": "x:8b1730cc39e36fc299a594723e76702218b6de4b9c59ce0962b6349700747d13",
+      "url": "https://x.com/petergyang/status/2115319325137731757",
+      "title": "Peter Yang: Other hiring practices that need to change: 1. Filtering candidates based on years of experience or ",
+      "author": "Peter Yang",
+      "text": "Other hiring practices that need to change: \n\n1. Filtering candidates based on years of experience or some company name \n\n2. Prioritizing resumes and cover letters over proof of work and real projects \n\n3. Listing number of people managed as an accomplishment by itself \n\n4. Endless rounds of interviews over short work trials\n\nI could go on.",
+      "publishedAt": "2026-10-28T05:46:42.000Z"
+    },
+    {
+      "guid": "x:59bc4ca18f1b495dd925588322b67916173f86310b212f10166d328fd80ca514",
+      "url": "https://x.com/petergyang/status/2115309642209436057",
+      "title": "Peter Yang: If you’re going to make videos about some made-up ARR then just be a satirical media company. I’d re",
+      "author": "Peter Yang",
+      "text": "If you’re going to make videos about some made-up ARR then just be a satirical media company. \n\nI’d respect that.",
+      "publishedAt": "2026-10-28T05:08:13.000Z"
+    },
+    {
+      "guid": "x:3404263ceca4f06da65d03e2eefbe54c6fa0f068fa8aa71a65f3f9a6b7da5204",
+      "url": "https://x.com/levie/status/2115305369799110905",
+      "title": "Aaron Levie: This is correct. The vast majority of enterprise workflows have not actually had agents applied to t",
+      "author": "Aaron Levie",
+      "text": "This is correct. The vast majority of enterprise workflows have not actually had agents applied to them in any meaningful way. The economy probably has this deployed < 1% right now.\n\nAt best you have a few automated systems in a company that do a single pass of an LLM to make a decision or provide feedback, but very little real “automation”. Some of this is a statement about the adoption rates of technology in enterprises, but the vast majority of it is really just due to the capability of AI itself.\n\nThat’s all changing. Now with computer use, long running agents, harness improvements and surrounding infrastructure, we’re finally at a point where we can start to apply agents at more complex workflows. \n\nWe will see self-improving systems that can take any particular workflow goal and improve the execution rates over a volume of instances. And with the emerging form factor of agent swarms, you can just choose to deploy any amount of compute at a problem and agents will off and do the work.\n\nThis won’t be about and users prompting agents to complete a specific task for them, but instead the organization reengineering the underlying workflows to take advantage of agents in their processes. This will have a massive impact in finance, life sciences, healthcare, and other information-heavy domains. Lots of opportunity to build and deploy these systems right now.",
+      "publishedAt": "2026-10-28T04:51:15.000Z"
+    },
+    {
+      "guid": "x:bb961a1bbe1c750466e8de00d857df2237550e6349732ba00689c2d423fa1480",
+      "url": "https://x.com/thsottiaux/status/2115297093879472332",
+      "title": "Thibault Sottiaux: https://t.co/Fgy0dBAHsJ has landed",
+      "author": "Thibault Sottiaux",
+      "text": "https://t.co/Fgy0dBAHsJ has landed",
+      "publishedAt": "2026-10-28T04:18:22.000Z"
+    },
+    {
+      "guid": "x:f750fb0f469d2e9624c9e5133787cd5fa68ab60be8c52d629f33f02e93aa563a",
+      "url": "https://x.com/zarazhangrui/status/2115288579173921266",
+      "title": "Zara Zhang: Had no idea this would become my most viewed tweet of all time 😂 https://t.co/mEG5Z28kyU",
+      "author": "Zara Zhang",
+      "text": "Had no idea this would become my most viewed tweet of all time 😂 https://t.co/mEG5Z28kyU",
+      "publishedAt": "2026-10-28T03:44:32.000Z"
+    },
+    {
+      "guid": "x:f24380b68e609eda4c7980569355f5daea929f7851ff55a78ce8e9a0772f29e5",
+      "url": "https://x.com/thsottiaux/status/2115273253711409208",
+      "title": "Thibault Sottiaux: Lands by midnight PST.",
+      "author": "Thibault Sottiaux",
+      "text": "Lands by midnight PST.",
+      "publishedAt": "2026-10-28T02:43:38.000Z"
+    },
+    {
+      "guid": "x:5c6a7c4741a638b155ac22f239ff8fa233598100fc2ff209ab7cfe06b6781d95",
+      "url": "https://x.com/petergyang/status/2115239304092106772",
+      "title": "Peter Yang: I just tried the most incredible Grok @bot feature today it was one of my favorite (and funniest) mo",
+      "author": "Peter Yang",
+      "text": "I just tried the most incredible Grok @bot feature today it was one of my favorite (and funniest) moments with AI in recent memory. \n\nIt's not quite launched to everyone but should be coming very soon.\n\nI'm going to make a video on just this feature. Subscribe here to get it soon: https://t.co/NSTj7ijxE0",
+      "publishedAt": "2026-10-28T00:28:43.000Z"
+    },
+    {
+      "guid": "x:dfaa05b59820bfc4737eb62e6c1e1d575a9111ebe931bd4b695a8ae5c6e07da4",
+      "url": "https://x.com/rauchg/status/2115218670389756243",
+      "title": "Guillermo Rauch: $ 𝚊𝚕𝚒𝚊𝚜 𝚗𝚘𝚠=𝚟𝚎𝚛𝚌𝚎𝚕 $ 𝚌𝚊𝚝 >𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎 <<'𝙴𝙾𝙵' 𝙵𝚁𝙾𝙼 𝚘𝚟𝚎𝚗/𝚋𝚞𝚗:𝚊𝚕𝚙𝚒𝚗𝚎 𝙲𝙼𝙳 [\"𝚋𝚞𝚗\",\"-𝚎\",\"𝙱𝚞𝚗.𝚜𝚎𝚛𝚟𝚎({𝚙𝚘𝚛𝚝:𝟾",
+      "author": "Guillermo Rauch",
+      "text": "$ 𝚊𝚕𝚒𝚊𝚜 𝚗𝚘𝚠=𝚟𝚎𝚛𝚌𝚎𝚕\n$ 𝚌𝚊𝚝 >𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎 <<'𝙴𝙾𝙵'\n𝙵𝚁𝙾𝙼 𝚘𝚟𝚎𝚗/𝚋𝚞𝚗:𝚊𝚕𝚙𝚒𝚗𝚎\n𝙲𝙼𝙳 [\"𝚋𝚞𝚗\",\"-𝚎\",\"𝙱𝚞𝚗.𝚜𝚎𝚛𝚟𝚎({𝚙𝚘𝚛𝚝:𝟾𝟶,𝚏𝚎𝚝𝚌𝚑:()=>𝚗𝚎𝚠 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎('𝚠𝚎 𝚊𝚛𝚎 𝚜𝚘 𝚋𝚊𝚌𝚔')})\"]\n𝙴𝙾𝙵\n$ 𝚗𝚘𝚠\n> Ready: https://t.co/tOqwRwGUa2",
+      "publishedAt": "2026-10-27T23:06:44.000Z"
+    },
+    {
+      "guid": "x:ef3d68522250a3f80c895842c107e04e2f59c111dcd090b4287ead0533dab763",
+      "url": "https://x.com/garrytan/status/2115215790756794496",
+      "title": "Garry Tan: I am trying to slim down GStack and reduce token usage and task latency to be sure https://t.co/2n99",
+      "author": "Garry Tan",
+      "text": "I am trying to slim down GStack and reduce token usage and task latency to be sure https://t.co/2n99PHF5i6",
+      "publishedAt": "2026-10-27T22:55:17.000Z"
+    },
+    {
+      "guid": "x:8f4ca45e606621f05c81144597be683d4ecb14de71577554c6b1814d03027e0b",
+      "url": "https://x.com/garrytan/status/2115210866962624810",
+      "title": "Garry Tan: What did my Capy software factory do on the greenest days? https://t.co/miOR2treNF",
+      "author": "Garry Tan",
+      "text": "What did my Capy software factory do on the greenest days? https://t.co/miOR2treNF",
+      "publishedAt": "2026-10-27T22:35:44.000Z"
+    },
+    {
+      "guid": "x:f2f590a8676434ec56728b92cd2685a3e0f8df7244a00d429f88c05e2ede43e8",
+      "url": "https://x.com/amasad/status/2115207856496480261",
+      "title": "Amjad Masad: If I’m investing in frontier AI I would underwrite it mostly on new discovery and its applications l",
+      "author": "Amjad Masad",
+      "text": "If I’m investing in frontier AI I would underwrite it mostly on new discovery and its applications like medicine because coding and most of knowledge work is quickly being saturated by sub-frontier models.",
+      "publishedAt": "2026-10-27T22:23:46.000Z"
+    },
+    {
+      "guid": "x:4365210315d6066b06163f27db478be942c594e27ff673e170f63c70f441dbac",
+      "url": "https://x.com/garrytan/status/2115193524152860771",
+      "title": "Garry Tan: The @capydotai software factory renormalization of your GitHub contribution colors is real Here is m",
+      "author": "Garry Tan",
+      "text": "The @capydotai software factory renormalization of your GitHub contribution colors is real\n\nHere is mine 👀 \n\nI was no token slouch before but wow the PRs are hot and heavy with Capy Captains (10 to 20 subagents running at all times on GStack and GBrain) https://t.co/cCDEI6d0Xu https://t.co/15R8aFycyA",
+      "publishedAt": "2026-10-27T21:26:49.000Z"
+    },
+    {
+      "guid": "x:3213c7af7223cb1a531b185a17fd266fb4fcf17863000fc73820100c44932593",
+      "url": "https://x.com/trq212/status/2115188992861970693",
+      "title": "Thariq: feels like there needs to be a new way to distribute opensource software such that people can modify",
+      "author": "Thariq",
+      "text": "feels like there needs to be a new way to distribute opensource software such that people can modify via agents but also get upstream automatically merged in\n\ncoding agents can do this but they won’t do it automatically https://t.co/6iejoVGp1D",
+      "publishedAt": "2026-10-27T21:08:48.000Z"
+    },
+    {
+      "guid": "x:cbf437adaef8798561d09355eecbdccf2fbaeee1d97d860691b1decca05bef84",
+      "url": "https://x.com/amasad/status/2115181058815660449",
+      "title": "Amjad Masad: In the Stanford piracy case against Anthropic, the judge’s name is “Alsup” which sounds suspiciously",
+      "author": "Amjad Masad",
+      "text": "In the Stanford piracy case against Anthropic, the judge’s name is “Alsup” which sounds suspiciously close to “AI slop” when say it fast. https://t.co/hcuRaiQwJp",
+      "publishedAt": "2026-10-27T20:37:17.000Z"
+    },
+    {
+      "guid": "x:535876e20986ed3fd453922cc0a7672689f4d95181269fbbfce60c31ef3f6564",
+      "url": "https://x.com/rauchg/status/2115161107078021563",
+      "title": "Guillermo Rauch: https://t.co/04L6MqJwe8 https://t.co/l0HypHrirg",
+      "author": "Guillermo Rauch",
+      "text": "https://t.co/04L6MqJwe8 https://t.co/l0HypHrirg",
+      "publishedAt": "2026-10-27T19:18:00.000Z"
+    },
+    {
+      "guid": "x:cab51f6057c9baecc60b6559b88186116fa242d0fa88872851231d7631c727f1",
+      "url": "https://x.com/nikunj/status/2115157188704612735",
+      "title": "Nikunj Kothari: VCs love talking about the number of cofounders and how sometimes there’s too many.. @AnthropicAI x ",
+      "author": "Nikunj Kothari",
+      "text": "VCs love talking about the number of cofounders and how sometimes there’s too many..\n\n@AnthropicAI x @databricks both with 7 cofounders showing that the best startups are truly outliers. \n\nAll the definitions of the “right” way of identifying or building startups are wrong. \n\nThere’s no “right” way, there’s only the way that works for you!",
+      "publishedAt": "2026-10-27T19:02:26.000Z"
+    },
+    {
+      "guid": "x:ea866762e488dbf0bc0e93f7d6609fbb49f2f1ac29f0a9525f8a299b44417ef8",
+      "url": "https://x.com/swyx/status/2115156135875629109",
+      "title": "Swyx: anyway here's my soundcloud https://t.co/12VJjC5aB8",
+      "author": "Swyx",
+      "text": "anyway here's my soundcloud https://t.co/12VJjC5aB8",
+      "publishedAt": "2026-10-27T18:58:15.000Z"
+    },
+    {
+      "guid": "x:a84460009b74f87ff4e861221fcd4140dec249ef2aa97035d57ea9ab47faeaba",
+      "url": "https://x.com/amasad/status/2115150680977715419",
+      "title": "Amjad Masad: Designers’ contribution to the codebase. https://t.co/FMlhbFzszv https://t.co/IdcnEzDEmW",
+      "author": "Amjad Masad",
+      "text": "Designers’ contribution to the codebase. https://t.co/FMlhbFzszv https://t.co/IdcnEzDEmW",
+      "publishedAt": "2026-10-27T18:36:34.000Z"
+    },
+    {
+      "guid": "x:8c86b29911718f4f4d606fcbad376a1019d8cd6b1cc9cd1352e52a4c2b421fa2",
+      "url": "https://x.com/trq212/status/2115135859075015137",
+      "title": "Thariq: this is the kind of HCI work I've been wanting to do for a while, but messing with OS internals has ",
+      "author": "Thariq",
+      "text": "this is the kind of HCI work I've been wanting to do for a while, but messing with OS internals has always been very time consuming\n\nnot sharing yet, there are still many edge cases (would not recommend using), but fun to experiment with!",
+      "publishedAt": "2026-10-27T17:37:40.000Z"
+    },
+    {
+      "guid": "x:5d7f3b9e1b9767d7a654ea2d8e17fb94a1990419cb985ba5fbd03cddd3ba5ca8",
+      "url": "https://x.com/trq212/status/2115135857669881939",
+      "title": "Thariq: experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, build",
+      "author": "Thariq",
+      "text": "experimenting with a lil personal project: an AI-native macOS dock with custom modes (writing, building, etc.) to help me stay focused\n\nmy agent is able to customize mode behavior and add new modes, it uses jev to classify my activity + notifications in real time & act on them https://t.co/yplDQUwTv5",
+      "publishedAt": "2026-10-27T17:37:40.000Z"
+    },
+    {
+      "guid": "x:2e71260231e6e0b7c9fa22de98c2b0ddaf8200d0047e219fa4c757607626bf18",
+      "url": "https://x.com/swyx/status/2115135448876269782",
+      "title": "Swyx: yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and ",
+      "author": "Swyx",
+      "text": "yeah you ignored a @mntruell email in 2024 but did you pitch something like  Claude Code in 2019 and then.... not do it  for 7 years https://t.co/dEix0oyszd",
+      "publishedAt": "2026-10-27T17:36:02.000Z"
+    },
+    {
+      "guid": "x:1e1f183a63ad24a110c15737b76407472e9e9f26fe429ccf219c365b41322af9",
+      "url": "https://x.com/mattturck/status/2115132327131328806",
+      "title": "Matt Turck: Usual startup advice: too many co-founders is bad!!! Too much dilution! Founder friction risk! Analy",
+      "author": "Matt Turck",
+      "text": "Usual startup advice: too many co-founders is bad!!! Too much dilution! Founder friction risk! Analysis paralysis!\n\nAlso:\n\n* Anthropic: 7 co-founders\n\n* OpenAI: 11 co-founders\n\n* Databricks: 7 co-founders",
+      "publishedAt": "2026-10-27T17:23:38.000Z"
+    },
+    {
+      "guid": "x:589e388a51fac87a2fb1127437e353744709b3ec7b5e167a16a0799f6105b821",
+      "url": "https://x.com/adityaag/status/2115119516191801809",
+      "title": "Aditya Agarwal: Very very excited about what @centai_health is building. So much potential to bring better health to",
+      "author": "Aditya Agarwal",
+      "text": "Very very excited about what @centai_health is building.\n\nSo much potential to bring better health to everyone in India. https://t.co/SAU5pLzijv",
+      "publishedAt": "2026-10-27T16:32:44.000Z"
+    },
+    {
+      "guid": "x:9d33870303b53c0eaa0e473bb04c75a9180c85f2ee8a44006b5765a44d21d89d",
+      "url": "https://x.com/danshipper/status/2115112705162182754",
+      "title": "Dan Shipper: we'll have more on this in @every this week: https://t.co/9wRhOCVapS",
+      "author": "Dan Shipper",
+      "text": "we'll have more on this in @every this week:\n\nhttps://t.co/9wRhOCVapS",
+      "publishedAt": "2026-10-27T16:05:40.000Z"
+    },
+    {
+      "guid": "x:1991703e544d865487ba37343fc08f0edbc041b7de3faf5698febf587b595a72",
+      "url": "https://x.com/nikunj/status/2115111451614744845",
+      "title": "Nikunj Kothari: Things I have a pretty decent idea about but I still have to go deep on since I’ll get 10 wildly dif",
+      "author": "Nikunj Kothari",
+      "text": "Things I have a pretty decent idea about but I still have to go deep on since I’ll get 10 wildly different definitions…\n\n> long horizon\n> out of distribution (esp data)\n> intelligence per watt\n> rl environments\n> “forward deployed”\n> revenue\n> “frontier”\n> self improving\n\nSure, some of these are rightfully subjective, but you’d be surprised at the variance of the responses 😅",
+      "publishedAt": "2026-10-27T16:00:41.000Z"
+    },
+    {
+      "guid": "x:e109210e62e51edac255099c3f21a2a4283a679740130adbaf0beff0bee0b955",
+      "url": "https://x.com/danshipper/status/2115093098816745910",
+      "title": "Dan Shipper: video creation and game making are going to become widely distributed foundations of knowledge work ",
+      "author": "Dan Shipper",
+      "text": "video creation and game making are going to become widely distributed foundations of knowledge work in the same way doc and deck creation are today",
+      "publishedAt": "2026-10-27T14:47:45.000Z"
+    },
+    {
+      "guid": "x:fb595d64c7b62c2dbbc698255d5dcd349a4954734af14bac4496d3bfeac4ebaf",
+      "url": "https://x.com/swyx/status/2115089887959359988",
+      "title": "Swyx: at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was ",
+      "author": "Swyx",
+      "text": "at spacex ipo everyone was posting their cursor bag fumble.\n\nkid stuff.\n\nmy turn.\n\ni estimate this was a $500m bag fumble lol. and very probably wouldve been on claude code early (bc i've been a typescript cli maintainer). fml. https://t.co/O4SZbwKhoQ https://t.co/kEV0gzb1Q6",
+      "publishedAt": "2026-10-27T14:35:00.000Z"
+    },
+    {
+      "guid": "x:24328b3c872a84f57562da45425f8c8a03bed46764e5b09546853ea2c3ebfdbb",
+      "url": "https://x.com/danshipper/status/2115080807656419759",
+      "title": "Dan Shipper: extremely good explanation https://t.co/qikxoeig2o",
+      "author": "Dan Shipper",
+      "text": "extremely good explanation https://t.co/qikxoeig2o",
+      "publishedAt": "2026-10-27T13:58:55.000Z"
+    },
     {
       "guid": "x:a8c01e5c8d47d13d42a3d369c24ab72b1ec9085993a0ce349ed86dfd860112d0",
       "url": "https://x.com/nikunj/status/2114929285890990574",
