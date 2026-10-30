@@ -1,23 +1,23 @@
 {
   "x": {
     "status": "ok",
-    "newSnapshotItems": 39,
-    "retainedItems": 481,
-    "generatedAt": "2026-10-29T06:32:19.194Z",
+    "newSnapshotItems": 36,
+    "retainedItems": 500,
+    "generatedAt": "2026-10-30T06:32:11.233Z",
     "upstreamErrors": []
   },
   "podcasts": {
     "status": "ok",
     "newSnapshotItems": 1,
-    "retainedItems": 11,
-    "generatedAt": "2026-10-29T06:32:59.245Z",
+    "retainedItems": 12,
+    "generatedAt": "2026-10-30T06:32:45.876Z",
     "upstreamErrors": []
   },
   "blogs": {
     "status": "ok",
     "newSnapshotItems": 0,
     "retainedItems": 3,
-    "generatedAt": "2026-10-29T06:32:59.893Z",
+    "generatedAt": "2026-10-30T06:32:46.314Z",
     "upstreamErrors": []
   }
 }

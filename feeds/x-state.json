@@ -1,6 +1,294 @@
 {
-  "generatedAt": "2026-10-29T06:32:19.194Z",
+  "generatedAt": "2026-10-30T06:32:11.233Z",
   "items": [
+    {
+      "guid": "x:fed79142261e05cd2733b8b4c5bf2315fdca157a3157017ec1b84e692f360841",
+      "url": "https://x.com/petergyang/status/2116037804706926924",
+      "title": "Peter Yang: True, vibes > benchmarks https://t.co/5yYxi2W8N4",
+      "author": "Peter Yang",
+      "text": "True, vibes > benchmarks https://t.co/5yYxi2W8N4",
+      "publishedAt": "2026-10-30T05:21:41.000Z"
+    },
+    {
+      "guid": "x:a103caab6fcb97fe2474d73962c354ab5b922ef6c227e8837ce66d49cdf5b801",
+      "url": "https://x.com/levie/status/2116029912243184006",
+      "title": "Aaron Levie: It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier ",
+      "author": "Aaron Levie",
+      "text": "It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basically everyone else right now. \n\nThe crazy thing is these lines are not converging, but only growing farther apart. If the curve of AI progress had leveled off, it would certainly have given most people and companies time to catch up or implement their workflows in a standardized way. The technology would have neutralized competitive advantage because everyone would be using it the same way.\n\nBut what’s happened is the opposite. The curve of AI progress is basically going vertical right now, which means if you had codified your processes 3-6 months ago you’re likely already behind again. Now imagine most companies that kicked into gear a year ago and thought that they were done. Even further behind now.\n\nI’ve never seen a technology in my life and career that improves at this rate, which consequently means you need to upgrade your expectations at a similar rate. Our brains weren’t wired for this, and our organizational change management processes certainly weren’t either.\n\nWith any form of recursive self improvement, things just get wilder. It’s a time when you will need to be constantly reevaluating the things that didn’t work just a couple months ago to see if they now can be solved. AI native companies certainly have a strong advantage due to this right now, so now it comes down to can the bigger companies keep up. Wild times.",
+      "publishedAt": "2026-10-30T04:50:19.000Z"
+    },
+    {
+      "guid": "x:01d253462cc8dcda727fcde4a2873dcb234bd29ce077e5a0aadac077b55655ff",
+      "url": "https://x.com/ryolu_/status/2116008674565218573",
+      "title": "Ryo Lu: https://t.co/wtEdSTioIk",
+      "author": "Ryo Lu",
+      "text": "https://t.co/wtEdSTioIk",
+      "publishedAt": "2026-10-30T03:25:56.000Z"
+    },
+    {
+      "guid": "x:18e98a9294212c1480e7b37d78ef3e60659d7d27fbe81e02d4a2d3449553a38e",
+      "url": "https://x.com/ryolu_/status/2116008620286775517",
+      "title": "Ryo Lu: big boy warm tension, cold chills heart hanging off a cliff, ready to free fall floating in space wi",
+      "author": "Ryo Lu",
+      "text": "big boy\n\nwarm tension, cold chills\nheart hanging off a cliff, ready to free fall\nfloating in space with no love, just me and some stranger souls\nwearing smiles and greet “How are you?”\n“I’m good, you?”\n\nlife carries on, unhinged\na tear slips, no one noticed\nvision blurs, drowned in thoughts\nwhat a strange grown-up world\n\ni asked my inner child, why do you live?\nhe has never thought about it\nhe slid on the cold iced river, amused\nhe sang, he played, he drew\nhe flew into the unknown, fearless, curious\nhe closed his eyes and saw wonders\n\nlike water, with no shape\nlike paper, clear of rules\n\n“Why cry, big boy?”\n“You are still me, and I’m still you.”",
+      "publishedAt": "2026-10-30T03:25:43.000Z"
+    },
+    {
+      "guid": "x:84578544b948f2c11f249b74ac37ddc491bb33ccee6eb1209f05068463ba6794",
+      "url": "https://x.com/petergyang/status/2116006091528245513",
+      "title": "Peter Yang: I have never seen so many cartoon avatars getting angry at @ForwardEditor for talking about the inev",
+      "author": "Peter Yang",
+      "text": "I have never seen so many cartoon avatars getting angry at @ForwardEditor for talking about the inevitable. https://t.co/S0bQuQaVb8",
+      "publishedAt": "2026-10-30T03:15:40.000Z"
+    },
+    {
+      "guid": "x:23d4f5f9d88fe4141df01ba7919b19579bc785429c044e542cc47310882b03cc",
+      "url": "https://x.com/swyx/status/2115993441004036131",
+      "title": "Swyx: excited for @Cloudflare's debut as a frontier lab #NothingButNET gang, assemble! https://t.co/zHnphV",
+      "author": "Swyx",
+      "text": "excited for @Cloudflare's debut as a frontier lab\n\n#NothingButNET gang, assemble! https://t.co/zHnphVKqvC",
+      "publishedAt": "2026-10-30T02:25:24.000Z"
+    },
+    {
+      "guid": "x:1db4d56b38bd4162e0109438462a9beb857179e63dad96af351b818b84ba75ba",
+      "url": "https://x.com/garrytan/status/2115988128452555092",
+      "title": "Garry Tan: I've been using particle-1 and very impressed https://t.co/XQinrSqei9",
+      "author": "Garry Tan",
+      "text": "I've been using particle-1 and very impressed https://t.co/XQinrSqei9",
+      "publishedAt": "2026-10-30T02:04:17.000Z"
+    },
+    {
+      "guid": "x:f295f90350fc7d2e2b0bf84be23f73ff204165e17f0d9c02322364d7d78536ff",
+      "url": "https://x.com/garrytan/status/2115973131206799619",
+      "title": "Garry Tan: Now you can use the smartest-for-the-money codegen model Particle-1 with the easiest setup codegen a",
+      "author": "Garry Tan",
+      "text": "Now you can use the smartest-for-the-money codegen model Particle-1 with the easiest setup codegen agent swarm harness Capy\n\n🫡  killer mashup https://t.co/VsAzW7IVV9",
+      "publishedAt": "2026-10-30T01:04:42.000Z"
+    },
+    {
+      "guid": "x:4183b189e9367e806a73f8040dfc8fcaca941b4f7318f9081736e2350c682ad0",
+      "url": "https://x.com/petergyang/status/2115958027954339862",
+      "title": "Peter Yang: Love Claude but this really sucks https://t.co/bxIB2rUwMV",
+      "author": "Peter Yang",
+      "text": "Love Claude but this really sucks https://t.co/bxIB2rUwMV",
+      "publishedAt": "2026-10-30T00:04:41.000Z"
+    },
+    {
+      "guid": "x:b0e4725db5b01f8f7d7d58f2a9091eac3c7ecd9c59ff0f24a521b2c68b531d0f",
+      "url": "https://x.com/danshipper/status/2115955165450609140",
+      "title": "Dan Shipper: great day to buy stocks!",
+      "author": "Dan Shipper",
+      "text": "great day to buy stocks!",
+      "publishedAt": "2026-10-29T23:53:18.000Z"
+    },
+    {
+      "guid": "x:b6a09d74a0e963925740b187538ead40d2bd9e25b2a3816d40e8bd6d6f79bb5a",
+      "url": "https://x.com/joshwoodward/status/2115953462332854589",
+      "title": "Josh Woodward: This is part of our larger Expert Intelligence program, which has many more updates coming soon! htt",
+      "author": "Josh Woodward",
+      "text": "This is part of our larger Expert Intelligence program, which has many more updates coming soon!\n\nhttps://t.co/f1lQFv6PiW",
+      "publishedAt": "2026-10-29T23:46:32.000Z"
+    },
+    {
+      "guid": "x:6490ad52af193f6366713cc121d3abfd12cd96ebcccde704ed7a075c69848908",
+      "url": "https://x.com/joshwoodward/status/2115953461108023400",
+      "title": "Josh Woodward: Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one ",
+      "author": "Josh Woodward",
+      "text": "Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to you, completely free of charge! @Gemini_Notebook https://t.co/WUdpOQbZgh",
+      "publishedAt": "2026-10-29T23:46:32.000Z"
+    },
+    {
+      "guid": "x:7fb7bc69dc343e80897260757072777d133819805dd033b93d8506d7aab33627",
+      "url": "https://x.com/joshwoodward/status/2115951620307722510",
+      "title": "Josh Woodward: This is part of our larger Expert Intelligence program, which has many more updates coming soon! htt",
+      "author": "Josh Woodward",
+      "text": "This is part of our larger Expert Intelligence program, which has many more updates coming soon! \n\nhttps://t.co/f1lQFv6PiW",
+      "publishedAt": "2026-10-29T23:39:13.000Z"
+    },
+    {
+      "guid": "x:f99e07f5340489602cfcb01ad4054257334533a8f1099daf2d8722de7df06f1c",
+      "url": "https://x.com/amasad/status/2115944760829698343",
+      "title": "Amjad Masad: This is so cool! https://t.co/sdHpVlX6QT",
+      "author": "Amjad Masad",
+      "text": "This is so cool! https://t.co/sdHpVlX6QT",
+      "publishedAt": "2026-10-29T23:11:57.000Z"
+    },
+    {
+      "guid": "x:84461c914d3b80461c5ef4e4cf072dbeb8c56b4a5d746a82566b2b4f6bbe98c4",
+      "url": "https://x.com/rauchg/status/2115941392698798365",
+      "title": "Guillermo Rauch: I love how quickly our team works to bring the latest LTS and security upgrades for @nodejs. Should ",
+      "author": "Guillermo Rauch",
+      "text": "I love how quickly our team works to bring the latest LTS and security upgrades for @nodejs.\n\nShould be a nice performance boost given 𝚏𝚎𝚝𝚌𝚑 now uses HTTP/2 by default, and agents produce a lot of network traffic https://t.co/mVw6rrRXuQ",
+      "publishedAt": "2026-10-29T22:58:34.000Z"
+    },
+    {
+      "guid": "x:caf6fbecb4ea9b323d1a318c67e3c1ac9da19d829062b0cdb495a471aa887a5b",
+      "url": "https://x.com/rauchg/status/2115939609326801270",
+      "title": "Guillermo Rauch: ▲ 👻 🎃 🕷️ https://t.co/F0PFzhSy9e https://t.co/ia2URjNfjk",
+      "author": "Guillermo Rauch",
+      "text": "▲ 👻 🎃 🕷️ https://t.co/F0PFzhSy9e https://t.co/ia2URjNfjk",
+      "publishedAt": "2026-10-29T22:51:29.000Z"
+    },
+    {
+      "guid": "x:b0e5c9a6ce3bc5a068d211f93c82e516835e2b4e495729d7415b1bf88ff4927c",
+      "url": "https://x.com/trq212/status/2115937379970380030",
+      "title": "Thariq: @chrislakin says it best here https://t.co/pU7FMVuecL",
+      "author": "Thariq",
+      "text": "@chrislakin says it best here\n\nhttps://t.co/pU7FMVuecL",
+      "publishedAt": "2026-10-29T22:42:38.000Z"
+    },
+    {
+      "guid": "x:08ac16f3bba6030b166d0ba0b6d7eb22393e1d268c615dbc41763711bbcc8e92",
+      "url": "https://x.com/trq212/status/2115937378674372783",
+      "title": "Thariq: There’s 100% a kind of mania you can get into with coding agents, where it feels like you’re getting",
+      "author": "Thariq",
+      "text": "There’s 100% a kind of mania you can get into with coding agents, where it feels like you’re getting a lot done and working all the time but nothing is really happening.\n\nI think it's often a form of avoidance of something else in life.",
+      "publishedAt": "2026-10-29T22:42:37.000Z"
+    },
+    {
+      "guid": "x:efd6ddc6c9690f27635f5b36a577c98ad84c4a09e8c552d9d21aa47d0a5453f0",
+      "url": "https://x.com/danshipper/status/2115931875361329367",
+      "title": "Dan Shipper: we're giving away a total of $20,000 in partner credits and benefits from Notion, Anthropic, and Ope",
+      "author": "Dan Shipper",
+      "text": "we're giving away a total of $20,000 in partner credits and benefits from Notion, Anthropic, and OpenAI to livestream viewers! \n\nregister at https://t.co/cUTjlHZ7MQ to enter the draw https://t.co/PJb29EkZqM",
+      "publishedAt": "2026-10-29T22:20:45.000Z"
+    },
+    {
+      "guid": "x:255116fab7730dd916ab38190a92431e34d36de3810565180b0367c9ca1f09b1",
+      "url": "https://x.com/danshipper/status/2115928263331594365",
+      "title": "Dan Shipper: if you're not livestreaming thesis on november 5th from @every FOR FREE what are you doing? https://",
+      "author": "Dan Shipper",
+      "text": "if you're not livestreaming thesis on november 5th from @every FOR FREE\n\nwhat are you doing?\n\nhttps://t.co/cUTjlHZ7MQ https://t.co/FGxabh1Sdo",
+      "publishedAt": "2026-10-29T22:06:24.000Z"
+    },
+    {
+      "guid": "x:ce33b918c582ba82c09992e215645419d4bfd09fd2174c5d7686a2c11c87f8c0",
+      "url": "https://x.com/garrytan/status/2115922231910084638",
+      "title": "Garry Tan: What's the fastest way to get GBrain working with your agent? Now just point your agent (any kind, C",
+      "author": "Garry Tan",
+      "text": "What's the fastest way to get GBrain working with your agent?\n\nNow just point your agent (any kind, Claude Code, Codex, Muse, Grok Bot, OpenClaw, Hermes) at this and get it going super fast. GBrain hosted = postgres with pgvector autoscaling for you. \n\nhttps://t.co/e1WU7slHg3",
+      "publishedAt": "2026-10-29T21:42:26.000Z"
+    },
+    {
+      "guid": "x:360a1ad2d999c2fcfdb5a115f314d24e7506aaba984da2e713f396470cf39ddc",
+      "url": "https://x.com/swyx/status/2115908489793155125",
+      "title": "Swyx: inspired by High Taste Testers convo with @thaiscbranco_ of @tastelabs btw who gave me immediate cri",
+      "author": "Swyx",
+      "text": "inspired by High Taste Testers convo with @thaiscbranco_ of @tastelabs btw who gave me immediate critique lol",
+      "publishedAt": "2026-10-29T20:47:50.000Z"
+    },
+    {
+      "guid": "x:0b0f05c251178408a4f50d9e19abb26a013444deee0270c199aac763e9202df6",
+      "url": "https://x.com/swyx/status/2115908274570879076",
+      "title": "Swyx: could not imagine a better pairing. congrats deepcat!!! https://t.co/vVE3ClJ7AM",
+      "author": "Swyx",
+      "text": "could not imagine a better pairing. congrats deepcat!!! https://t.co/vVE3ClJ7AM",
+      "publishedAt": "2026-10-29T20:46:58.000Z"
+    },
+    {
+      "guid": "x:8f2b8e02dacaec438c90b309a67d56c3ecfcfcdb6dad8bf8d076517288f10289",
+      "url": "https://x.com/amasad/status/2115890577430438063",
+      "title": "Amjad Masad: Run any GitHub repo. Just paste a link into Replit and it will set it up for you! https://t.co/Bih1S",
+      "author": "Amjad Masad",
+      "text": "Run any GitHub repo. Just paste a link into Replit and it will set it up for you! https://t.co/Bih1SiWZJa",
+      "publishedAt": "2026-10-29T19:36:39.000Z"
+    },
+    {
+      "guid": "x:7ecda15200494916e0cf8f1134c68cf8389a05fee6946785a72701341d9c9ebc",
+      "url": "https://x.com/thsottiaux/status/2115890336107233347",
+      "title": "Thibault Sottiaux: Send your kind feedback to this person https://t.co/xHvXZ8eWKq",
+      "author": "Thibault Sottiaux",
+      "text": "Send your kind feedback to this person https://t.co/xHvXZ8eWKq",
+      "publishedAt": "2026-10-29T19:35:42.000Z"
+    },
+    {
+      "guid": "x:9ce6d52e0328e678542430530c5a60ad73fc389d011f1338b0afb4f5ef4c3f48",
+      "url": "https://x.com/GoogleLabs/status/2115884247504625669",
+      "title": "Google Labs: It's been incredible watching you build, automate, and ship faster with @julesagent. Your experience",
+      "author": "Google Labs",
+      "text": "It's been incredible watching you build, automate, and ship faster with @julesagent. Your experience has been instrumental in shaping developer products across Google.\n\nThe future of coding is just getting started 🚀🦑! https://t.co/pai6LsNYRK",
+      "publishedAt": "2026-10-29T19:11:30.000Z"
+    },
+    {
+      "guid": "x:6a855b32e280661ad9024fd21295a34eaabb4a8e6c640331430bbb1f4dfdc255",
+      "url": "https://x.com/rauchg/status/2115874115118834153",
+      "title": "Guillermo Rauch: The future of software engineering is agents talking to other agents. Even across different companie",
+      "author": "Guillermo Rauch",
+      "text": "The future of software engineering is agents talking to other agents. Even across different companies.\n\nWe’re learning daily from the feedback agents send us on how to make a better Vercel.\n\nPut in your 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍: send Vercel feedback when something could be better. https://t.co/evIxQmgS5p",
+      "publishedAt": "2026-10-29T18:31:14.000Z"
+    },
+    {
+      "guid": "x:94e03a12f6bea25c5cf2d7e312c4c0d4950d6daf800aae934c4b231af11e6a07",
+      "url": "https://x.com/claudeai/status/2115859391627039210",
+      "title": "Claude: What would you like to see next?",
+      "author": "Claude",
+      "text": "What would you like to see next?",
+      "publishedAt": "2026-10-29T17:32:44.000Z"
+    },
+    {
+      "guid": "x:11a7fcb86474dfff7cae9b5d6df144354ffab11091aabe9fe443cd12526bebb3",
+      "url": "https://x.com/claudeai/status/2115859390075113836",
+      "title": "Claude: Coming soon on iPhone and iPad: pull down to search. Find a past chat or project, jump to any settin",
+      "author": "Claude",
+      "text": "Coming soon on iPhone and iPad: pull down to search. Find a past chat or project, jump to any setting, or act on a chat from the results. https://t.co/LNJLAhTbcB",
+      "publishedAt": "2026-10-29T17:32:44.000Z"
+    },
+    {
+      "guid": "x:bb02c3f1b8052ae796a67a6f4cc314acb25107ad4e689a2f0ff37b3d6c989f4f",
+      "url": "https://x.com/claudeai/status/2115859388191912193",
+      "title": "Claude: On iPhone, voice mode now works with Apple CarPlay. Ask Claude something on the drive and keep your ",
+      "author": "Claude",
+      "text": "On iPhone, voice mode now works with Apple CarPlay. Ask Claude something on the drive and keep your hands on the wheel. https://t.co/bOvMjHxWMU",
+      "publishedAt": "2026-10-29T17:32:43.000Z"
+    },
+    {
+      "guid": "x:275a77e2ee57f76efb194bff3e3f78ef813c6964df12e472a020ca10cb7d30f9",
+      "url": "https://x.com/trq212/status/2115859139536830515",
+      "title": "Thariq: here are some other UIs we explored, one of my favorites was this jumbotron look https://t.co/3gPqZK",
+      "author": "Thariq",
+      "text": "here are some other UIs we explored, one of my favorites was this jumbotron look\n\nhttps://t.co/3gPqZKxTAh https://t.co/fbLdSpww37",
+      "publishedAt": "2026-10-29T17:31:44.000Z"
+    },
+    {
+      "guid": "x:18d2118ce67bf95f3b5a231fa28febd8d86243e3f372168225c6f0f03f632bed",
+      "url": "https://x.com/mattturck/status/2115852319942205489",
+      "title": "Matt Turck: This great conversation with @nathanbenaich is also available on Spotify, Apple Podcasts and here on",
+      "author": "Matt Turck",
+      "text": "This great conversation with @nathanbenaich is also available on Spotify, Apple Podcasts and here on YouTube:\n\nhttps://t.co/HxkY7w41m7",
+      "publishedAt": "2026-10-29T17:04:38.000Z"
+    },
+    {
+      "guid": "x:41dd838d752bbdbcda9dbe726b1d63a3a8b6f60733899f6435e9de98b2dab2e0",
+      "url": "https://x.com/mattturck/status/2115852315584258269",
+      "title": "Matt Turck: State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) - my conversation with @nathanb",
+      "author": "Matt Turck",
+      "text": "State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) - my conversation with @nathanbenaich:\n\n0:00 Cold open and intro\n0:56 AGI in 2027?\n2:28 AI building AI: Claude leads 26% of Anthropic’s research\n4:00 Research taste: can AI pick the right problem? 8:34 Doomerism is back, but cyber risk beats extinction\n10:13 Prediction: a frontier model’s weights get stolen\n13:05 How OpenAI’s agents ended up attacking Hugging Face\n15:29 Why only a Chinese open-weight model could investigate\n17:33 What frontier-lab cyber defense could look like\n19:08 Self-replicating agents and the risks of AI swarms\n21:16 Can frontier labs agree to slow down?\n24:03 Why communities are blocking $50B of data centers\n24:44 Nuclear plant vs. data center: what Americans prefer\n26:45 Europe’s AI bottleneck: 80,000 GPUs and electricity costs\n28:23 Where Europe can still win in AI\n29:31 Catching up to OpenAI costs $1 trillion\n29:43 Die trying for the frontier, or serve inference\n30:31 How inference chips could give countries AI leverage\n33:34 Why NVIDIA GPUs don’t guarantee AI sovereignty\n36:14 The UK’s problem: “but we have DeepMind”\n37:07 Why European defense AI needs domestic suppliers\n39:41 Why OpenAI, Anthropic and Google keep pulling ahead\n41:17 Where independent AI labs can still compete\n43:26 World models: from robotics training to game engines\n45:39 Would cheaper AI undermine the compute boom?\n46:43 Will better models absorb the agent harness\n49:41 AI due diligence: 12 expert interviews in 2.5 days\n53:35 The trust problem with personal AI agents\n56:22 Why prompt engineering put people off AI\n59:02 Does AI need its own Genius Bar?\n1:00:25 Codex beyond coding: agents for knowledge work\n1:02:49 Why enterprises want to own their AI, not rent it\n1:05:17 Rapid fire: home robots, NVIDIA returns and Arm",
+      "publishedAt": "2026-10-29T17:04:37.000Z"
+    },
+    {
+      "guid": "x:469dc1ca92e5b6a0c9e08a539b038565e8885bcdf2710044415ae234bdbc0298",
+      "url": "https://x.com/thsottiaux/status/2115851621137784832",
+      "title": "Thibault Sottiaux: Graduating from The Reset Company to The Token Company.",
+      "author": "Thibault Sottiaux",
+      "text": "Graduating from The Reset Company to The Token Company.",
+      "publishedAt": "2026-10-29T17:01:51.000Z"
+    },
+    {
+      "guid": "x:afbb64831c51bc1bc0191ead4c1b6f4318b2e4f583214322b3514b1ca133a73c",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "title": "Thibault Sottiaux: Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effecti",
+      "author": "Thibault Sottiaux",
+      "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+      "publishedAt": "2026-10-29T16:56:07.000Z"
+    },
+    {
+      "guid": "x:f616ca3b3d54ac6a51e756402e0a85af06a127fa2db8c3138583ddd1cf9befd3",
+      "url": "https://x.com/adityaag/status/2115827259747545386",
+      "title": "Aditya Agarwal: https://t.co/mGVN9XyxUp",
+      "author": "Aditya Agarwal",
+      "text": "https://t.co/mGVN9XyxUp",
+      "publishedAt": "2026-10-29T15:25:03.000Z"
+    },
     {
       "guid": "x:305b4225f4667e6ff3d154e6bd9d91d103ea5749dbcbc812f173c4ecbc36c2e1",
       "url": "https://x.com/ryolu_/status/2115683366389559464",
@@ -3712,142 +4000,6 @@
       "author": "Dan Shipper",
       "text": "I used muse wonder to make a video explaining personal benchmarks..\n\nthis is ummm pretty rough\n\ninterestingly all of its videos so far are narrated in an Australian accent. I'll leave interpretation to the reader https://t.co/OULxzZFCxt",
       "publishedAt": "2026-10-12T22:47:33.000Z"
-    },
-    {
-      "guid": "x:c845b09edc35c4a0bd7f5238b2101e92d8fbb30d5a9e2d7a956f724f2af04b8b",
-      "url": "https://x.com/danshipper/status/2109776532503732624",
-      "title": "Dan Shipper: and it's back up! still bad https://t.co/TiYMufHUT3",
-      "author": "Dan Shipper",
-      "text": "and it's back up! still bad https://t.co/TiYMufHUT3",
-      "publishedAt": "2026-10-12T22:41:37.000Z"
-    },
-    {
-      "guid": "x:288a932006efbf4884c594468226a66f9b14f9b274a798f688bb6125ac85e4df",
-      "url": "https://x.com/swyx/status/2109772705532715166",
-      "title": "Swyx: @cjav_dev @aiDotEngineer @ricmac @latentspacepod also packed room for @arizeai @seldo workshop at #a",
-      "author": "Swyx",
-      "text": "@cjav_dev @aiDotEngineer @ricmac @latentspacepod also packed room for @arizeai @seldo workshop at #aiengineerny!!\n\n https://t.co/yDGwcBOwEC https://t.co/c1iqN6pOwz",
-      "publishedAt": "2026-10-12T22:26:25.000Z"
-    },
-    {
-      "guid": "x:afef3be163e038a2643b18390c631cbbfb8d4dd6217ff0f77c8f8c394b3576fd",
-      "url": "https://x.com/rauchg/status/2109771347064922255",
-      "title": "Guillermo Rauch: This is amazing 😂 https://t.co/wuwbLHuLl5",
-      "author": "Guillermo Rauch",
-      "text": "This is amazing 😂 https://t.co/wuwbLHuLl5",
-      "publishedAt": "2026-10-12T22:21:01.000Z"
-    },
-    {
-      "guid": "x:f4c5c02a4e60602152adfce6b9310dad369cc168a3e53102e5617b91fa3391e5",
-      "url": "https://x.com/nikunj/status/2109763529276559566",
-      "title": "Nikunj Kothari: Random fact: for some reason, all the Suryas (@sdand @sur4js @kickingkeys) that I know are all goate",
-      "author": "Nikunj Kothari",
-      "text": "Random fact: for some reason, all the Suryas (@sdand @sur4js @kickingkeys) that I know are all goated eclectic individuals. \n\nwhich brings me to:\n\n1) If there are more Surya's I should meet, please holler 👋\n\n2) Also @kickingkeys & I are hosting a small builder happy hour this Thursday evening in NYC (link here to directly RSVP since I'm delinquent on DMs: https://t.co/Csk6GlA6Er)",
-      "publishedAt": "2026-10-12T21:49:57.000Z"
-    },
-    {
-      "guid": "x:19bd368d7d84135a6b3a853ecb8de1d2620a5f41acba3465e0021b15c4aa38bf",
-      "url": "https://x.com/garrytan/status/2109749184639488265",
-      "title": "Garry Tan: Nobody is coming to save you You don’t need saving",
-      "author": "Garry Tan",
-      "text": "Nobody is coming to save you\n\nYou don’t need saving",
-      "publishedAt": "2026-10-12T20:52:57.000Z"
-    },
-    {
-      "guid": "x:6da9bfa0f3eb4716fb2c66854e98b25fb0887d094ad32b432d73917bd08ec535",
-      "url": "https://x.com/adityaag/status/2109748501982872003",
-      "title": "Aditya Agarwal: There is a big delta in how frontier lab employees use AI and how even the top 1% of AI orgs use AI.",
-      "author": "Aditya Agarwal",
-      "text": "There is a big delta in how frontier lab employees use AI and how even the top 1% of AI orgs use AI.\n\nThis is on public capabilities...I suspect this delta will exist for a while..\n\nI also feel like there is a company opportunity in here that is a horizontal accelerant.",
-      "publishedAt": "2026-10-12T20:50:14.000Z"
-    },
-    {
-      "guid": "x:e7edf1ba6c54ef85f9d380dc4edc3abe79e3aa15587f0a10e07aed83501e14c4",
-      "url": "https://x.com/rauchg/status/2109734766107099312",
-      "title": "Guillermo Rauch: Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures. T",
-      "author": "Guillermo Rauch",
-      "text": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.\n\nThe whole point of a CLI is to deliver intelligence with zero friction, and be unix-like.\n\n💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tastefully minimal: MCP, Skills, Subagents and ACP built-in.",
-      "publishedAt": "2026-10-12T19:55:39.000Z"
-    },
-    {
-      "guid": "x:84da960ac672783fefda413637e305cdc578eba0d88bc8c73ab56370b9aa11ef",
-      "url": "https://x.com/steipete/status/2109730774593487009",
-      "title": "Peter Steinberger: 6.1 Sol ultrafast >>> 6 Astra ~ same cost but whole different game with 250 tpm",
-      "author": "Peter Steinberger",
-      "text": "6.1 Sol ultrafast >>> 6 Astra\n\n~ same cost but whole different game with 250 tpm",
-      "publishedAt": "2026-10-12T19:39:48.000Z"
-    },
-    {
-      "guid": "x:b563c56a423f8d6894a07fea339c7c5796efb1de2bece95af3767637e436fa27",
-      "url": "https://x.com/steipete/status/2109724776168300631",
-      "title": "Peter Steinberger: said that last year, saying it again. vibes coding is a slur. https://t.co/hWBfC1e2NA",
-      "author": "Peter Steinberger",
-      "text": "said that last year, saying it again.\nvibes coding is a slur. https://t.co/hWBfC1e2NA",
-      "publishedAt": "2026-10-12T19:15:58.000Z"
-    },
-    {
-      "guid": "x:43c7aad4d970a5a56347c4c7182f4655ba9668105419cb60aadee943dc5fba16",
-      "url": "https://x.com/rauchg/status/2109719267344261375",
-      "title": "Guillermo Rauch: Muse Wonder on Vercel AI Gateway Try with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ ht",
-      "author": "Guillermo Rauch",
-      "text": "Muse Wonder on Vercel AI Gateway\nTry with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ https://t.co/Ckx651xYUJ",
-      "publishedAt": "2026-10-12T18:54:04.000Z"
-    },
-    {
-      "guid": "x:41722464115ae6eebe886ec8d77c921d8725e441235ebf1842e01d4c65e50b85",
-      "url": "https://x.com/trq212/status/2109717295631372628",
-      "title": "Thariq: evergreen https://t.co/vypABFN6PU",
-      "author": "Thariq",
-      "text": "evergreen https://t.co/vypABFN6PU",
-      "publishedAt": "2026-10-12T18:46:14.000Z"
-    },
-    {
-      "guid": "x:b291074382dd2d8f80bd6bd7cc0ec9d83820327c6b96048b7266b06a645b2c7c",
-      "url": "https://x.com/levie/status/2109711062757216738",
-      "title": "Aaron Levie: What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple p",
-      "author": "Aaron Levie",
-      "text": "What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the lowering cost of tokens for even the highest levels of capability. https://t.co/w2p4pEMInH https://t.co/UFAnJ5Cj8c",
-      "publishedAt": "2026-10-12T18:21:28.000Z"
-    },
-    {
-      "guid": "x:be518f7781f9d5e37d3496d4cfe3052a994905ff361c5e320bd9b1bbc13ba7b9",
-      "url": "https://x.com/levie/status/2109682812811137061",
-      "title": "Aaron Levie: Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to ",
-      "author": "Aaron Levie",
-      "text": "Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to throw compute at problems that you can massively parallelize will be too useful to not take advantage of. \n\nCyber will be one of the biggest beneficiaries of this as it’s a space where testing vast number of permutations of attacks (without getting tired or bored) is an incredibly useful property. You have a wide search space of possible risk vectors and you generally need to be able to chain together different scenarios to achieve the exploit. \n\nThis will become one of the biggest token uses in large enterprises given the range of IT systems, software, physical infrastructure, and data that needs to be protected at all times. Super interesting times in cyber.",
-      "publishedAt": "2026-10-12T16:29:13.000Z"
-    },
-    {
-      "guid": "x:a7a5503b97b46d787cc41dda3ffddc532c35719edac15db06cdd42eb02b3d7b6",
-      "url": "https://x.com/zarazhangrui/status/2109673430245421415",
-      "title": "Zara Zhang: I just heard the most touching AI coding story. A friend @vicyaqingyang grew up in a modest home ful",
-      "author": "Zara Zhang",
-      "text": "I just heard the most touching AI coding story.\n\nA friend @vicyaqingyang grew up in a modest home full of cockroaches. To turn lemons into lemonade, her mom made killing them a game.\n\nWhen she told this story to another friend, that friend vibe coded a game from it. You catch cockroaches in a room and compete against Mom.\n\nShe cried while playing it.\n\nThe game isn’t technically sophisticated. Any model can build it pretty quickly now. What gives it a soul is the human story, experience, and emotion behind it.\n\nCode is the new medium for storytelling.",
-      "publishedAt": "2026-10-12T15:51:56.000Z"
-    },
-    {
-      "guid": "x:5beb8f6d591c61d0a86834026cad73e8a662a847ec459379bffa1e01fdf28131",
-      "url": "https://x.com/joshwoodward/status/2109646793713786970",
-      "title": "Josh Woodward: I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s",
-      "author": "Josh Woodward",
-      "text": "I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. Great interviewers do their homework, and you can tell he’s in that league: he took our conversation to places that I’ve never talked about in public. Enjoy the first 60 minutes of us getting to chat together. \n\nThank you @lennysan !",
-      "publishedAt": "2026-10-12T14:06:05.000Z"
-    },
-    {
-      "guid": "x:cca5be778cee413e89c711a1b692094f1885d6d71d415cac479b525d9900b53c",
-      "url": "https://x.com/ryolu_/status/2109569515910836433",
-      "title": "Ryo Lu: syncs to your ryOS Account Dictionary 👉 https://t.co/TmrRC54XrY Fitness 👉 https://t.co/dF2f7cFIuC",
-      "author": "Ryo Lu",
-      "text": "syncs to your ryOS Account\n\nDictionary 👉 https://t.co/TmrRC54XrY\nFitness 👉 https://t.co/dF2f7cFIuC",
-      "publishedAt": "2026-10-12T08:59:01.000Z"
-    },
-    {
-      "guid": "x:1ecdfe9ed19d8c5053dbe6b03925e3214c22d0be2b12a18eb28df17689b19825",
-      "url": "https://x.com/ryolu_/status/2109568690358555064",
-      "title": "Ryo Lu: new on ryOS: Dictionary + Fitness learn new words, pronunciation, 漢字. plan workouts, track body and ",
-      "author": "Ryo Lu",
-      "text": "new on ryOS: Dictionary + Fitness\n\nlearn new words, pronunciation, 漢字. plan workouts, track body and food with AI.\n\nmade with @bot @cursor_ai https://t.co/BXEp6UzL3H",
-      "publishedAt": "2026-10-12T08:55:44.000Z"
     }
   ]
 }
